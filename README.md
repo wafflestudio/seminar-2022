@@ -2,7 +2,7 @@
 
 - [세미나 수강 목록](./seminar-list.md)
 
-<br><br><br><br>![wafflestudio_logo](wafflestudio_logo.png)<br><br><br><br><br>
+<br><br>![wafflestudio_logo](waffle_logo.png)<br><br>
 20.5 기 세미나는 다음 학기 개발 프로젝트 참여 가능한 Programmers 양성을 목표로 합니다.
 
 - React
