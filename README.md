@@ -5,7 +5,7 @@
 <br><br>![wafflestudio_logo](waffle_logo.png)<br><br>
 2022 세미나는 다음 학기부터 개발 프로젝트에 참여할 수 있는 __20.5기 Programmers의 양성__ 및 __기존 부원의 실력 향상__ 을 목표로 합니다.
 - React
-  - TypeScript
+  - JavaScript
 - Django
   - Python
 - Kotlin Spring MVC + JPA
