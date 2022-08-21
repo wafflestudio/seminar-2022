@@ -149,7 +149,7 @@
 |           |                   |            |            |            |
 | 송건우      | Gitsgwoo          |           |           |           |
 |           |                   |            |            |            |
-| 송동엽      | eastshine2741     |           |           |           |
+| 송동엽      | eastshine2741     | android  |  react  |  Django   |
 |           |                   |            |            |            |
 | 송채미      | chamcham02        |           |           |           |
 |           |                   |            |            |            |
