@@ -69,7 +69,7 @@
 |           |                   |            |            |            |
 | 김예지      | lerrybe           |           |           |           |
 |           |                   |            |            |            |
-| 김용현      | mined2022         |           |           |           |
+| 김용현      | mined2022         |spring           |django           |react           |
 |           |                   |            |            |            |
 | 김유신      | catnip033         |           |           |           |
 |           |                   |            |            |            |
