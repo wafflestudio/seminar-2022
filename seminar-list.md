@@ -259,7 +259,7 @@
 |           |                   |            |            |            |
 | 정태근      | TaegeunJeong      |           |           |           |
 |           |                   |            |            |            |
-| 정택진      | PAKAFAN           |           |           |           |
+| 정택진      | PAKAFAN           |   spring  |   django  |    react  |
 |           |                   |            |            |            |
 | 제갈준영     | Jack-Chagarr      |           |           |           |
 |           |                   |            |            |            |
