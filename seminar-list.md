@@ -291,7 +291,7 @@
 |           |                   |            |            |            |
 | 최진호      | dandyday          |           |           |           |
 |           |                   |            |            |            |
-| 한우현      | whwoohw           |           |           |           |
+| 한우현      | whwoohw           |   react   |  spring   |  django   |
 |           |                   |            |            |            |
 | 한준형      | Han-Joonhyung     |           |           |           |
 |           |                   |            |            |            |
