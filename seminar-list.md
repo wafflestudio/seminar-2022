@@ -213,7 +213,7 @@
 |           |                   |            |            |            |
 | 이선재      | snjlee58          |           |           |           |
 |           |                   |            |            |            |
-| 이수현      | Souhyun           |           |           |           |
+| 이수현      | Souhyun           |    android     |   spring     |   iOS     |
 |           |                   |            |            |            |
 | 이승아      | seungahdev        |           |           |           |
 |           |                   |            |            |            |
