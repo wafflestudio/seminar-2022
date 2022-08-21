@@ -223,7 +223,7 @@
 |           |                   |            |            |            |
 | 이재운      | theolee72         |           |           |           |
 |           |                   |            |            |            |
-| 이준민      | junmini7          |           |           |           |
+| 이준민      | junmini7          |   django  |   react   |   spring  |
 |           |                   |            |            |            |
 | 이준호      | L-j-h-c           |           |           |           |
 |           |                   |            |            |            |
