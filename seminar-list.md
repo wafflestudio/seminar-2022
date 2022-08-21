@@ -59,7 +59,7 @@ gi# 세미나 수강 목록
 |           |                   |            |            |            |
 | 김수민      | Sumin-Kim-dev     |           |           |           |
 |           |                   |            |            |            |
-| 김수민      | sootreeah         |djangoo     |react      |spring     |
+| 김수민      | sootreeah         |django    |react      |spring     |
 |           |                   |            |            |            |
 | 김승진      | ksj-hikoo         |           |           |           |
 |           |                   |            |            |            |
