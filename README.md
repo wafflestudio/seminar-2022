@@ -140,7 +140,7 @@
 하단에는 각종 url들 작성 부탁드립니다 (인라인으로 다 쓰면 너무 더러워져서)
 -->
 
-[OT_PPT]: ./Rookies_OT_20.5_PPT.pptx
+[OT_PPT]: https://docs.google.com/presentation/d/1g9mBKmAVF0dIGJvDwVm-AdN5PHO_XU2d/edit?usp=sharing&ouid=104004442380463498825&rtpof=true&sd=true
 [OT_PDF]: ./Rookies_OT_20.5_PDF.pdf
 [OT_Zoom]: https://snu-ac-kr.zoom.us/j/7207172411?pwd=eVRiZ1ZiWGY4dVBCTnJZU05MaERFUT09
 
