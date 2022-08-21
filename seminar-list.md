@@ -193,7 +193,7 @@
 |           |                   |            |            |            |
 | 유주성      | joosung03         |           |           |           |
 |           |                   |            |            |            |
-| 유창민      | fluentmin         |           |           |           |
+| 유창민      | fluentmin         |react      |Spring     |Django           |
 |           |                   |            |            |            |
 | 윤소영      | hotmilk           |           |           |           |
 |           |                   |            |            |            |
