@@ -53,7 +53,7 @@
 |           |                   |            |            |            |
 | 김민중      | arkrangian        |           |           |           |
 |           |                   |            |            |            |
-| 김서연      | kimtjdus          |           |           |           |
+| 김서연      | kimtjdus          |  django   |   react   |  android  |
 |           |                   |            |            |            |
 | 김성범      | sbkim28           |           |           |           |
 |           |                   |            |            |            |
