@@ -279,7 +279,7 @@
 |           |                   |            |            |            |
 | 차수환      | Carshwan          |           |           |           |
 |           |                   |            |            |            |
-| 최서영      | chlsy07           |           |           |           |
+| 최서영      | chlsy07           |   react   |   android | django    |
 |           |                   |            |            |            |
 | 최성준      | snusj             |           |           |           |
 |           |                   |            |            |            |
