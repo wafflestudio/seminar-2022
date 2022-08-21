@@ -81,7 +81,7 @@
 |           |                   |            |            |            |
 | 김준형      | leeeryboy         |           |           |           |
 |           |                   |            |            |            |
-| 김지성      | 2NN300HU          |           |           |           |
+| 김지성      | 2NN300HU          |spring|django|react|
 |           |                   |            |            |            |
 | 김지아      | kimjia            |           |           |           |
 |           |                   |            |            |            |
