@@ -251,7 +251,7 @@
 |           |                   |            |            |            |
 | 전종원      | cjw107            |           |           |           |
 |           |                   |            |            |            |
-| 정윤서      | yoonsuhchung      |           |           |           |
+| 정윤서      | yoonsuhchung      |django     | spring    | iOS       |
 |           |                   |            |            |            |
 | 정지후      | jihoojung0106     |           |           |           |
 |           |                   |            |            |            |
