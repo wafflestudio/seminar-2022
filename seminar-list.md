@@ -79,7 +79,7 @@
 |           |                   |            |            |            |
 | 김좌훈      | JwahoonKim        |           |           |           |
 |           |                   |            |            |            |
-| 김준형      | leeeryboy         |           |           |           |
+| 김준형      | leeeryboy         |    Spring       |     Django      |    react       |
 |           |                   |            |            |            |
 | 김지성      | 2NN300HU          |           |           |           |
 |           |                   |            |            |            |
