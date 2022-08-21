@@ -177,7 +177,7 @@
 |           |                   |            |            |            |
 | 양현서      | yanghyeonseo      |           |           |           |
 |           |                   |            |            |            |
-| 엄성호      | SHEOMM            |           |           |           |
+| 엄성호      | SHEOMM            |   spring        |    android       |     react      |
 |           |                   |            |            |            |
 | 염혜지      | sententi-a        |           |           |           |
 |           |                   |            |            |            |
