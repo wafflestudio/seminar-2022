@@ -117,7 +117,7 @@
 |           |                   |            |            |            |
 | 박재웅      | PJaewoong         |           |           |           |
 |           |                   |            |            |            |
-| 박정헌      | impri2            |           |           |           |
+| 박정헌      | impri2            |   Django        |     React      |  Android         |
 |           |                   |            |            |            |
 | 박지형      | ImPJH             |           |           |           |
 |           |                   |            |            |            |
