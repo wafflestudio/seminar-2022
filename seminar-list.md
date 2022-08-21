@@ -241,7 +241,7 @@
 |           |                   |        |        |     |
 | 임수       | dlatn4389         |        |        |     |
 |           |                   |        |        |     |
-| 임승규      | skyu-lim          | Django | Spring | IOS |
+| 임승규      | skyu-lim          | Spring | Django | iOS |
 |           |                   |        |        |     |
 | 임찬솔      | Limchansol        |        |        |     |
 |           |                   |        |        |     |
