@@ -147,7 +147,7 @@
 |           |                   |            |            |            |
 | 손유진      | eujin-son         |           |           |           |
 |           |                   |            |            |            |
-| 송건우      | Gitsgwoo          |           |           |           |
+| 송건우      | Gitsgwoo          |  android  |   ios     |  django   |
 |           |                   |            |            |            |
 | 송동엽      | eastshine2741     |           |           |           |
 |           |                   |            |            |            |
