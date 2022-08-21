@@ -215,7 +215,7 @@
 |           |                   |            |            |            |
 | 이수현      | Souhyun           |           |           |           |
 |           |                   |            |            |            |
-| 이승아      | seungahdev        |           |           |           |
+| 이승아      | seungahdev        |  django  |  spring |   react   |
 |           |                   |            |            |            |
 | 이아영      | aylee2008         |           |           |           |
 |           |                   |            |            |            |
