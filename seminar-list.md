@@ -1,4 +1,4 @@
-# 세미나 수강 목록
+gi# 세미나 수강 목록
 
 세미나는 react, django, spring, android, iOS 다섯 가지의 세미나가 있습니다.
 
@@ -59,7 +59,7 @@
 |           |                   |            |            |            |
 | 김수민      | Sumin-Kim-dev     |           |           |           |
 |           |                   |            |            |            |
-| 김수민      | sootreeah         |           |           |           |
+| 김수민      | sootreeah         |djangoo     |react      |spring     |
 |           |                   |            |            |            |
 | 김승진      | ksj-hikoo         |           |           |           |
 |           |                   |            |            |            |
