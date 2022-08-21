@@ -233,7 +233,7 @@
 |           |                   |            |            |            |
 | 이한상      | always216         |           |           |           |
 |           |                   |            |            |            |
-| 이현진      | LHJ1q             |           |           |           |
+| 이현진      | LHJ1q             | django | spring | android |
 |           |                   |            |            |            |
 | 이호준      | BDlhj             |           |           |           |
 |           |                   |            |            |            |
