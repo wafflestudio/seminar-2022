@@ -165,7 +165,7 @@
 |           |                   |            |            |            |
 | 심우진      | wjshim2003        |           |           |           |
 |           |                   |            |            |            |
-| 안광휘      | muscleup15        |           |           |           |
+| 안광휘      | muscleup15        |  react    |  spring   |  ios      |
 |           |                   |            |            |            |
 | 안동하      | 2019dahn          |           |           |           |
 |           |                   |            |            |            |
