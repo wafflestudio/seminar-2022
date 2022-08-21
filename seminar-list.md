@@ -295,7 +295,7 @@
 |           |                   |            |            |            |
 | 한준형      | Han-Joonhyung     |           |           |           |
 |           |                   |            |            |            |
-| 현준기      | orbizzz           |           |           |           |
+| 현준기      | orbizzz           |  django   |  react    |  spring   |
 |           |                   |            |            |            |
 | 홍승욱      | seung-wook-0111   |           |           |           |
 |           |                   |            |            |            |
