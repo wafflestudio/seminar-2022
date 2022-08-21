@@ -151,7 +151,7 @@
 |           |                   |            |            |            |
 | 송동엽      | eastshine2741     |           |           |           |
 |           |                   |            |            |            |
-| 송채미      | chamcham02        |           |           |           |
+| 송채미      | chamcham02        |    iOS    |   react   |   django  |
 |           |                   |            |            |            |
 | 송형석      | ihyungsuk         |           |           |           |
 |           |                   |            |            |            |
