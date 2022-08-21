@@ -175,7 +175,7 @@
 |           |                   |            |            |            |
 | 양찬혁      | yangchanhk98      |           |           |           |
 |           |                   |            |            |            |
-| 양현서      | yanghyeonseo      |           |           |           |
+| 양현서      | yanghyeonseo      | django          | spring          | react          |
 |           |                   |            |            |            |
 | 엄성호      | SHEOMM            |           |           |           |
 |           |                   |            |            |            |
