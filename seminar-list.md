@@ -133,7 +133,7 @@
 |           |                   |            |            |            |
 | 사공훈      | OctoHoon          |           |           |           |
 |           |                   |            |            |            |
-| 서도원      | silky225          |           |           |           |
+| 서도원      | silky225          |  react  |   django   |  spring  |
 |           |                   |            |            |            |
 | 서민균      | minkyun12         |           |           |           |
 |           |                   |            |            |            |
