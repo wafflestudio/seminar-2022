@@ -257,7 +257,7 @@
 |           |                   |            |            |            |
 | 정진안      | incipienstation   |           |           |           |
 |           |                   |            |            |            |
-| 정태근      | TaegeunJeong      |           |           |           |
+| 정태근      | TaegeunJeong      | react | android | iOS |
 |           |                   |            |            |            |
 | 정택진      | PAKAFAN           |           |           |           |
 |           |                   |            |            |            |
