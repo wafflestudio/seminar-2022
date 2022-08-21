@@ -283,7 +283,7 @@
 |           |                   |            |            |            |
 | 최성준      | snusj             |           |           |           |
 |           |                   |            |            |            |
-| 최성혁      | qqq981130         | spring |    react  |  android  |
+| 최성혁      | qqq981130         | spring |    android  |  react  |
 |           |                   |            |            |            |
 | 최원준      | reynie1514        |           |           |           |
 |           |                   |            |            |            |
