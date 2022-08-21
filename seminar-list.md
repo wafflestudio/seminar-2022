@@ -111,7 +111,7 @@
 |           |                   |            |            |            |
 | 박송희      | songheezi9        |           |           |           |
 |           |                   |            |            |            |
-| 박용주      | tomatozoo         |           |           |           |
+| 박용주      | tomatozoo         | Django    | React     |  Android  |
 |           |                   |            |            |            |
 | 박재민      | arnold518         |           |           |           |
 |           |                   |            |            |            |
