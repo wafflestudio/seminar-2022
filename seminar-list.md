@@ -75,7 +75,7 @@
 |           |                   |            |            |            |
 | 김은혜      | gracekim027       |           |           |           |
 |           |                   |            |            |            |
-| 김재영      | JaeyeongKim00     |           |           |           |
+| 김재영      | JaeyeongKim00     | Django    | Spring    | react     |
 |           |                   |            |            |            |
 | 김좌훈      | JwahoonKim        |           |           |           |
 |           |                   |            |            |            |
