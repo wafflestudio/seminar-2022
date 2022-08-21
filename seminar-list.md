@@ -37,7 +37,7 @@
 |           |                   |            |            |            |
 | 권재영      | jaylions          |           |           |           |
 |           |                   |            |            |            |
-| 김기성      | Githeong          |           |           |           |
+| 김기성      | Githeong          |  Django   |   Spring  |  android  |
 |           |                   |            |            |            |
 | 김도근      | dogeunee          |           |           |           |
 |           |                   |            |            |            |
