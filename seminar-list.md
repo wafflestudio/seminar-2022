@@ -77,7 +77,7 @@
 |           |                   |            |            |            |
 | 김재영      | JaeyeongKim00     |           |           |           |
 |           |                   |            |            |            |
-| 김좌훈      | JwahoonKim        |           |           |           |
+| 김좌훈      | JwahoonKim        |  Spring         |  Django         |  android         |
 |           |                   |            |            |            |
 | 김준형      | leeeryboy         |           |           |           |
 |           |                   |            |            |            |
