@@ -159,7 +159,7 @@
 |           |                   |            |            |            |
 | 신정민      | sjm150            |           |           |           |
 |           |                   |            |            |            |
-| 신제민      | Jaeminiman        |           |           |           |
+| 신제민      | Jaeminiman        |   spring   |     django |   react    |
 |           |                   |            |            |            |
 | 신호원      | Howon-Shin        |           |           |           |
 |           |                   |            |            |            |
