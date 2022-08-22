@@ -181,7 +181,7 @@
 |           |                   |            |            |            |
 | 염혜지      | sententi-a        |           |           |           |
 |           |                   |            |            |            |
-| 오동건      | ho2921ho          |           |           |           |
+| 오동건      | ho2921ho          |  django   |  spring   |   android |
 |           |                   |            |            |            |
 | 오재원      | dhwodnjs          |           |           |           |
 |           |                   |            |            |            |
