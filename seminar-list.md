@@ -255,7 +255,7 @@
 |           |                   |            |            |            |
 | 정지후      | jihoojung0106     |           |           |           |
 |           |                   |            |            |            |
-| 정진안      | incipienstation   |           |           |           |
+| 정진안      | incipienstation   |   django  |   spring   |   react    |
 |           |                   |            |            |            |
 | 정태근      | TaegeunJeong      |           |           |           |
 |           |                   |            |            |            |
