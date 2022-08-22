@@ -99,7 +99,7 @@
 |           |                   |            |            |            |
 | 두진서      | doojinseo         |           |           |           |
 |           |                   |            |            |            |
-| 류가은      | RyuGaeun4201      |  android  |  Spring   |  Django   |
+| 류가은      | RyuGaeun4201      |  android  |  spring   |  django   |
 |           |                   |            |            |            |
 | 마건호      | gwonllna          |           |           |           |
 |           |                   |            |            |            |
