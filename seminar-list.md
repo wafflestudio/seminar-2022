@@ -129,7 +129,7 @@
 |           |                   |            |            |            |
 | 백민홍      | roddywhite        |           |           |           |
 |           |                   |            |            |            |
-| 변준섭      | jukebox03         |           |           |           |
+| 변준섭      | jukebox03         | spring    |    django  |  react     |
 |           |                   |            |            |            |
 | 사공훈      | OctoHoon          |           |           |           |
 |           |                   |            |            |            |
