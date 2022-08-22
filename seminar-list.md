@@ -185,7 +185,7 @@
 |           |                   |            |            |            |
 | 오재원      | dhwodnjs          |           |           |           |
 |           |                   |            |            |            |
-| 오준석      | OhJoonseok        |           |           |           |
+| 오준석      | OhJoonseok        |  iOS       |  Spring    |  React    |
 |           |                   |            |            |            |
 | 오태양      | fivessun5         |           |           |           |
 |           |                   |            |            |            |
