@@ -39,7 +39,7 @@
 |           |                   |            |            |            |
 | 김기성      | Githeong          |           |           |           |
 |           |                   |            |            |            |
-| 김도근      | dogeunee          |           |           |           |
+| 김도근      | dogeunee          | django    | react     | iOS       |
 |           |                   |            |            |            |
 | 김도영      | choco-bear        |           |           |           |
 |           |                   |            |            |            |
