@@ -271,7 +271,7 @@
 |           |                   |            |            |            |
 | 조용찬      | mechanicjo        |           |           |           |
 |           |                   |            |            |            |
-| 조유진      | Joeyoojin         |           |           |           |
+| 조유진      | Joeyoojin         |  react  |   android   |   iOS    |
 |           |                   |            |            |            |
 | 진채연      | cheyonjin         |           |           |           |
 |           |                   |            |            |            |
