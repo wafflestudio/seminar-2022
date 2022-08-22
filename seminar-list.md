@@ -135,7 +135,7 @@
 |           |                   |            |            |            |
 | 서도원      | silky225          |           |           |           |
 |           |                   |            |            |            |
-| 서민균      | minkyun12         |           |           |           |
+| 서민균      | minkyun12         | react     | iOS       | django    |
 |           |                   |            |            |            |
 | 서민후      | seomhoo           |           |           |           |
 |           |                   |            |            |            |
