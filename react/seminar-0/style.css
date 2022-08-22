@@ -1,0 +1,17 @@
+div {
+    background: lightcyan;
+    padding: 5px;
+    margin: 5px;
+}
+
+span {
+    background: yellow;
+}
+
+h1 {
+    color: red;
+}
+
+.description {
+    color: blue;
+}
