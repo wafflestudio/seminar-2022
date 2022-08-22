@@ -71,7 +71,7 @@
 |           |                   |            |            |            |
 | 김용현      | mined2022         |           |           |           |
 |           |                   |            |            |            |
-| 김유신      | catnip033         |           |           |           |
+| 김유신      | catnip033         |  django   |  android  |  spring   |
 |           |                   |            |            |            |
 | 김은혜      | gracekim027       |           |           |           |
 |           |                   |            |            |            |
