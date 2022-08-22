@@ -195,7 +195,7 @@
 |           |                   |            |            |            |
 | 유창민      | fluentmin         |           |           |           |
 |           |                   |            |            |            |
-| 윤소영      | hotmilk           |           |           |           |
+| 윤소영      | hotmilk           |  spring   |   react   |   django  |
 |           |                   |            |            |            |
 | 윤유상      | fyoon46           |           |           |           |
 |           |                   |            |            |            |
