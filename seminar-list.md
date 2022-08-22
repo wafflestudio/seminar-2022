@@ -273,7 +273,7 @@
 |           |                   |            |            |            |
 | 조유진      | Joeyoojin         |           |           |           |
 |           |                   |            |            |            |
-| 진채연      | cheyonjin         |           |           |           |
+| 진채연      | cheyonjin         |   spring    |   iOS      |   react     |
 |           |                   |            |            |            |
 | 차동주      | dongjoocha        |           |           |           |
 |           |                   |            |            |            |
