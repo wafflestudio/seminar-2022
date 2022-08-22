@@ -27,7 +27,7 @@
 |           |                   |            |            |            |
 | 강연진      | yeonjin8815       |           |           |           |
 |           |                   |            |            |            |
-| 고현수      | hsmail02          |           |           |           |
+| 고현수      | hsmail02          | react | spring | android |
 |           |                   |            |            |            |
 | 곽민지      | Joanne19-drive    |           |           |           |
 |           |                   |            |            |            |
