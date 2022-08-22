@@ -173,7 +173,7 @@
 |           |                   |            |            |            |
 | 양석훈      | Sagit25           |           |           |           |
 |           |                   |            |            |            |
-| 양찬혁      | yangchanhk98      |           |           |           |
+| 양찬혁      | yangchanhk98      |spring     |django     |react      |
 |           |                   |            |            |            |
 | 양현서      | yanghyeonseo      |           |           |           |
 |           |                   |            |            |            |
