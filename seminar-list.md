@@ -287,7 +287,7 @@
 |           |                   |            |            |            |
 | 최원준      | reynie1514        |           |           |           |
 |           |                   |            |            |            |
-| 최재훈      | jaehoony0911      |           |           |           |
+| 최재훈      | jaehoony0911      | android   | iOS       | react     |
 |           |                   |            |            |            |
 | 최진호      | dandyday          |           |           |           |
 |           |                   |            |            |            |
