@@ -104,7 +104,7 @@
 | 마건호      | gwonllna          |           |           |           |
 |           |                   |            |            |            |
 | 박건률      | gunrpark          |           |           |           |
-|           |                   |            |            |            |
+|           |                     |  Django   |    iOS    |   React   |
 | 박경록      | tasel220          |           |           |           |
 |           |                   |            |            |            |
 | 박상권      | CookieBean        |           |           |           |
