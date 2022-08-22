@@ -197,7 +197,7 @@
 |           |                   |            |            |            |
 | 윤소영      | hotmilk           |           |           |           |
 |           |                   |            |            |            |
-| 윤유상      | fyoon46           | react | android | iOS |
+| 윤유상      | fyoon46           | react | android | django |
 |           |                   |            |            |            |
 | 윤재웅      | woong97           |           |           |           |
 |           |                   |            |            |            |
