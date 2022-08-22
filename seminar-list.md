@@ -127,7 +127,7 @@
 |           |                   |            |            |            |
 | 방명호      | 61021111          |           |           |           |
 |           |                   |            |            |            |
-| 백민홍      | roddywhite        |           |           |           |
+| 백민홍      | roddywhite        |react      |django     |iOS        |
 |           |                   |            |            |            |
 | 변준섭      | jukebox03         |           |           |           |
 |           |                   |            |            |            |
