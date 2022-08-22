@@ -61,7 +61,7 @@
 |           |                   |            |            |            |
 | 김수민      | sootreeah         |           |           |           |
 |           |                   |            |            |            |
-| 김승진      | ksj-hikoo         | react || django | spring |
+| 김승진      | ksj-hikoo         | react | django | spring |
 |           |                   |            |            |            |
 | 김아연      | kay1918           |           |           |           |
 |           |                   |            |            |            |
