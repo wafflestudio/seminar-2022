@@ -113,7 +113,7 @@
 |           |                   |            |            |            |
 | 박용주      | tomatozoo         |           |           |           |
 |           |                   |            |            |            |
-| 박재민      | arnold518         |           |           |           |
+| 박재민      | arnold518         | django | spring | android |
 |           |                   |            |            |            |
 | 박재웅      | PJaewoong         |           |           |           |
 |           |                   |            |            |            |
