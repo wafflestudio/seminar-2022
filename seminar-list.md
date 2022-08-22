@@ -297,7 +297,7 @@
 |           |                   |            |            |            |
 | 현준기      | orbizzz           |           |           |           |
 |           |                   |            |            |            |
-| 홍승욱      | seung-wook-0111   |           |           |           |
+| 홍승욱      | seung-wook-0111   | iOS       | react     | android   |
 |           |                   |            |            |            |
 | 홍승재      | erhayer           |           |           |           |
 |           |                   |            |            |            |
