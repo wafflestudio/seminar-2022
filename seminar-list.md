@@ -41,7 +41,7 @@
 |           |                   |            |            |            |
 | 김도근      | dogeunee          |           |           |           |
 |           |                   |            |            |            |
-| 김도영      | choco-bear        |  django  |  spring    |  react    |
+| 김도영      | choco-bear        |  django  |  react    |  spring    |
 |           |                   |            |            |            |
 | 김동한      | ethan0913kim      |           |           |           |
 |           |                   |            |            |            |
