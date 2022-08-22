@@ -303,7 +303,7 @@
 |           |                   |            |            |            |
 | 홍희주      | jeenakit          |           |           |           |
 |           |                   |            |            |            |
-| 황명빈      | bean1009          |           |           |           |
+| 황명빈      | bean1009        |   django   |   spring   |  android  |
 |           |                   |            |            |            |
 
 
