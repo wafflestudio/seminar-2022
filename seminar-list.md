@@ -35,7 +35,7 @@
 |           |                   |            |            |            |
 | 권은진      | kjinny            |           |           |           |
 |           |                   |            |            |            |
-| 권재영      | jaylions          |  Django   | React     |   Spring  |
+| 권재영      | jaylions          |  Spring   | React     |   Django  |
 |           |                   |            |            |            |
 | 김기성      | Githeong          |           |           |           |
 |           |                   |            |            |            |
