@@ -95,7 +95,7 @@
 |           |                   |            |            |            |
 | 노우석      | dntjr8096         |           |           |           |
 |           |                   |            |            |            |
-| 노현서      | serverrepairman | Django | react | android |
+| 노현서      | serverrepairman | django | react | android |
 |           |                   |            |            |            |
 | 두진서      | doojinseo         |           |           |           |
 |           |                   |            |            |            |
