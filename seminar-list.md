@@ -161,7 +161,7 @@
 |           |                   |            |            |            |
 | 신제민      | Jaeminiman        |           |           |           |
 |           |                   |            |            |            |
-| 신호원      | Howon-Shin        |           |           |           |
+| 신호원      | Howon-Shin        |  react   |  android   |  django   |
 |           |                   |            |            |            |
 | 심우진      | wjshim2003        |           |           |           |
 |           |                   |            |            |            |
