@@ -131,7 +131,7 @@
 |           |                   |            |            |            |
 | 변준섭      | jukebox03         |           |           |           |
 |           |                   |            |            |            |
-| 사공훈      | OctoHoon          |           |           |           |
+| 사공훈      | OctoHoon          |   react   |   ios     |   django  |
 |           |                   |            |            |            |
 | 서도원      | silky225          |           |           |           |
 |           |                   |            |            |            |
