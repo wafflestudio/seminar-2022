@@ -87,7 +87,7 @@
 |           |                   |            |            |            |
 | 김채현      | Chaenniee         |           |           |           |
 |           |                   |            |            |            |
-| 김하늘      | kimhaneal11       |           |           |           |
+| 김하늘      | kimhaneal11       |  react         |   android        |  Spring         |
 |           |                   |            |            |            |
 | 김희서      | grace0068         |           |           |           |
 |           |                   |            |            |            |
