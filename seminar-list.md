@@ -29,7 +29,7 @@
 |           |                   |            |            |            |
 | 고현수      | hsmail02          |           |           |           |
 |           |                   |            |            |            |
-| 곽민지      | Joanne19-drive    |           |           |           |
+| 곽민지      | Joanne19-drive    |   spring    |   iOS    |    react    |
 |           |                   |            |            |            |
 | 구본재      | bonjaeku02        |           |           |           |
 |           |                   |            |            |            |
