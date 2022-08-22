@@ -227,7 +227,7 @@
 |           |                   |            |            |            |
 | 이준호      | L-j-h-c           |           |           |           |
 |           |                   |            |            |            |
-| 이지원      | jiwon79           | spring | react | django |
+| 이지원      | jiwon79           | spring | django | react |
 |           |                   |            |            |            |
 | 이지현      | JH713             |           |           |           |
 |           |                   |            |            |            |
