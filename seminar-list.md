@@ -83,7 +83,7 @@
 |           |                   |            |            |            |
 | 김지성      | 2NN300HU          |           |           |           |
 |           |                   |            |            |            |
-| 김지아      | kimjia            |           |           |           |
+| 김지아      | kimjia            |  spring   |  react    |  django   |
 |           |                   |            |            |            |
 | 김채현      | Chaenniee         |           |           |           |
 |           |                   |            |            |            |
