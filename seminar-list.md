@@ -157,7 +157,7 @@
 |           |                   |            |            |            |
 | 신재훈      | crayfish-s        |           |           |           |
 |           |                   |            |            |            |
-| 신정민      | sjm150            |           |           |           |
+| 신정민      | sjm150            | Spring    | Django    | react      |
 |           |                   |            |            |            |
 | 신제민      | Jaeminiman        |           |           |           |
 |           |                   |            |            |            |
