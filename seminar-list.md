@@ -243,7 +243,7 @@
 |           |                   |            |            |            |
 | 임승규      | skyu-lim          |           |           |           |
 |           |                   |            |            |            |
-| 임찬솔      | Limchansol        |           |           |           |
+| 임찬솔      | Limchansol        |   react    |   django    |   spring    |
 |           |                   |            |            |            |
 | 장승현      | jang1751          |           |           |           |
 |           |                   |            |            |            |
