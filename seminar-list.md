@@ -205,7 +205,7 @@
 |           |                   |            |            |            |
 | 윤효정      | emilyyoon3107     | react | android | django |
 |           |                   |            |            |            |
-| 이다은      | dawna2002         |           |           |           |
+| 이다은      | de-yi             |   react    |   spring   |   Django   |
 |           |                   |            |            |            |
 | 이민영      | 89645321          |  Django   |    iOS    |  Spring   |
 |           |                   |            |            |            |
