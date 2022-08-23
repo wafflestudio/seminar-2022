@@ -253,7 +253,7 @@
 |           |                   |            |            |            |
 | 정윤서      | yoonsuhchung      |           |           |           |
 |           |                   |            |            |            |
-| 정지후      | jihoojung0106     |           |           |           |
+| 정지후      | jihoojung0106     |  spring  |  django   |  react   |
 |           |                   |            |            |            |
 | 정진안      | incipienstation   |           |           |           |
 |           |                   |            |            |            |
