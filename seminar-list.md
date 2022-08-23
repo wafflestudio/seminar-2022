@@ -101,7 +101,7 @@
 |           |                   |            |            |            |
 | 류가은      | RyuGaeun4201      |  android  |  spring   |  django   |
 |           |                   |            |            |            |
-| 마건호      | gwonllna          |           |           |           |
+| 마건호      | gwonllna          |  django  |  spring  |  react  |
 |           |                   |            |            |            |
 | 박건률      | gunrpark          |           |           |           |
 |           |                   |            |            |            |
