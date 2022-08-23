@@ -103,7 +103,7 @@
 |           |                   |            |            |            |
 | 마건호      | gwonllna          |  django  |  spring  |  react  |
 |           |                   |            |            |            |
-| 박건률      | gunrpark          |           |           |           |
+| 박건률      | gunrpark          |   iOS     |  Django   |   React   |
 |           |                   |            |            |            |
 | 박경록      | tasel220          | spring    |   android    |   django   |
 |           |                   |            |            |            |
