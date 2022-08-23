@@ -275,7 +275,7 @@
 |           |                   |            |            |            |
 | 진채연      | cheyonjin         |           |           |           |
 |           |                   |            |            |            |
-| 차동주      | dongjoocha        |           |           |           |
+| 차동주      | dongjoocha        | spring    |   django  |    react  |
 |           |                   |            |            |            |
 | 차수환      | Carshwan          |           |           |           |
 |           |                   |            |            |            |
