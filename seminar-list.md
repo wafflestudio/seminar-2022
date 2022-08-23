@@ -163,7 +163,7 @@
 |           |                   |            |            |            |
 | 신호원      | Howon-Shin        |           |           |           |
 |           |                   |            |            |            |
-| 심우진      | wjshim2003        |           |           |           |
+| 심우진      | wjshim2003        | spring | django | android |
 |           |                   |            |            |            |
 | 안광휘      | muscleup15        |  react    | spring    |  ios      |
 |           |                   |            |            |            |
