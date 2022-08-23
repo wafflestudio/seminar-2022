@@ -97,7 +97,7 @@
 |           |                   |            |            |            |
 | 노현서      | serverrepairman | django | react | android |
 |           |                   |            |            |            |
-| 두진서      | doojinseo         |           |           |           |
+| 두진서      | doojinseo         |  react    |  android  |   Django  |
 |           |                   |            |            |            |
 | 류가은      | RyuGaeun4201      |           |           |           |
 |           |                   |            |            |            |
