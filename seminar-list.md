@@ -171,7 +171,7 @@
 |           |                   |            |            |            |
 | 안진영      | AhnJinYoung       |           |           |           |
 |           |                   |            |            |            |
-| 양석훈      | Sagit25           |           |           |           |
+| 양석훈      | Sagit25           | django    | react     |  spring    |
 |           |                   |            |            |            |
 | 양찬혁      | yangchanhk98      |spring     |django     |react      |
 |           |                   |            |            |            |
