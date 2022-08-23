@@ -137,7 +137,7 @@
 |           |                   |            |            |            |
 | 서민균      | minkyun12         |           |           |           |
 |           |                   |            |            |            |
-| 서민후      | seomhoo           |           |           |           |
+| 서민후      | seomhoo           | Django          | React          | Android          |
 |           |                   |            |            |            |
 | 서보성      | Boseong-Seo       |  spring   |   iOS     |  django   |
 |           |                   |            |            |            |
