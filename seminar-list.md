@@ -1,4 +1,4 @@
-# 세미나 수강 목록
+gi# 세미나 수강 목록
 
 세미나는 react, django, spring, android, iOS 다섯 가지의 세미나가 있습니다.
 
