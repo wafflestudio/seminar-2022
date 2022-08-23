@@ -63,7 +63,7 @@
 |           |                   |            |            |            |
 | 김승진      | ksj-hikoo         |           |           |           |
 |           |                   |            |            |            |
-| 김아연      | kay1918           |           |           |           |
+| 김아연      | kay1918           |  django   |  react    |  spring   |
 |           |                   |            |            |            |
 | 김영진      | esctabcapslock    |           |           |           |
 |           |                   |            |            |            |
