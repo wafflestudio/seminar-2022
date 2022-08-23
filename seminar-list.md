@@ -153,7 +153,7 @@
 |           |                   |            |            |            |
 | 송채미      | chamcham02        |   react   |   django  |    iOS    |
 |           |                   |            |            |            |
-| 송형석      | ihyungsuk         |           |           |           |
+| 송형석      | ihyungsuk         | Django    | react     | Spring    |
 |           |                   |            |            |            |
 | 신재훈      | crayfish-s        |           |           |           |
 |           |                   |            |            |            |
