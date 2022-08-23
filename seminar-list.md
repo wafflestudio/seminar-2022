@@ -45,7 +45,7 @@
 |           |                   |            |            |            |
 | 김동한      | ethan0913kim      |           |           |           |
 |           |                   |            |            |            |
-| 김령교      | lumirevel         |           |           |           |
+| 김령교      | lumirevel         |    iOS    |  django   |   react   |
 |           |                   |            |            |            |
 | 김민성      | minchok125        |           |           |           |
 |           |                   |            |            |            |
