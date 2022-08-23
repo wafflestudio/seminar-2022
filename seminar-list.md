@@ -169,7 +169,7 @@
 |           |                   |            |            |            |
 | 안동하      | 2019dahn          |   react   |  android  |  django   |
 |           |                   |            |            |            |
-| 안진영      | AhnJinYoung       |           |           |           |
+| 안진영      | AhnJinYoung       |   react   |  android  |  spring     |
 |           |                   |            |            |            |
 | 양석훈      | Sagit25           | django    | react     |  spring    |
 |           |                   |            |            |            |
