@@ -293,7 +293,7 @@
 |           |                   |            |            |            |
 | 한우현      | whwoohw           |           |           |           |
 |           |                   |            |            |            |
-| 한준형      | Han-Joonhyung     |           |           |           |
+| 한준형      | Han-Joonhyung     |   django  |    iOS    |   spring  |
 |           |                   |            |            |            |
 | 현준기      | orbizzz           |  django   |  react    |  spring   |
 |           |                   |            |            |            |
