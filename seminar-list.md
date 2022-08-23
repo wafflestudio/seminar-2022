@@ -235,7 +235,7 @@
 |           |                   |            |            |            |
 | 이현진      | LHJ1q             | django | spring | android |
 |           |                   |            |            |            |
-| 이호준      | BDlhj             |           |           |           |
+| 이호준      | BDlhj             |     django      |     react      |     spring      |
 |           |                   |            |            |            |
 | 이희승      | rayark1           |           |           |           |
 |           |                   |            |            |            |
