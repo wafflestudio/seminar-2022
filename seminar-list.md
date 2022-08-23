@@ -51,7 +51,7 @@
 |           |                   |            |            |            |
 | 김민재      | lenyemu           |           |           |           |
 |           |                   |            |            |            |
-| 김민중      | arkrangian        |           |           |           |
+| 김민중      | arkrangian        | django | spring | react |
 |           |                   |            |            |            |
 | 김서연      | kimtjdus          |           |           |           |
 |           |                   |            |            |            |
