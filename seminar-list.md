@@ -43,7 +43,7 @@
 |           |                   |            |            |            |
 | 김도영      | choco-bear        |  django  |  react    |  spring    |
 |           |                   |            |            |            |
-| 김동한      | ethan0913kim      |           |           |           |
+| 김동한      | ethan0913kim      | react      | iOS      | android   |
 |           |                   |            |            |            |
 | 김령교      | lumirevel         |    iOS    |  django   |   react   |
 |           |                   |            |            |            |
