@@ -277,7 +277,7 @@
 |           |                   |            |            |            |
 | 차동주      | dongjoocha        | spring    |   django  |    react  |
 |           |                   |            |            |            |
-| 차수환      | Carshwan          |           |           |           |
+| 차수환      | Carshwan          |   react   |  spring   |  android  |
 |           |                   |            |            |            |
 | 최서영      | chlsy07           |   react   |   android | django    |
 |           |                   |            |            |            |
