@@ -209,7 +209,7 @@
 |           |                   |            |            |            |
 | 이민영      | 89645321          |  Django   |    iOS    |  Spring   |
 |           |                   |            |            |            |
-| 이석찬      | sukchan-0811      |           |           |           |
+| 이석찬      | sukchan-0811      |   react   |   spring  |   django  |
 |           |                   |            |            |            |
 | 이선재      | snjlee58          |   iOS      |  android   |   react    |
 |           |                   |            |            |            |
