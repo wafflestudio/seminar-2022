@@ -281,7 +281,7 @@
 |           |                   |            |            |            |
 | 최서영      | chlsy07           |   react   |   android | django    |
 |           |                   |            |            |            |
-| 최성준      | snusj             |           |           |           |
+| 최성준      | snusj             | spring |  react  |  django  |
 |           |                   |            |            |            |
 | 최성혁      | qqq981130         | spring |    android  |  react  |
 |           |                   |            |            |            |
