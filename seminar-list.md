@@ -203,7 +203,7 @@
 |           |                   |            |            |            |
 | 윤현호      | HyeonHoYoon28     |           |           |           |
 |           |                   |            |            |            |
-| 윤효정      | emilyyoon3107     |           |           |           |
+| 윤효정      | emilyyoon3107     | react | android | django |
 |           |                   |            |            |            |
 | 이다은      | dawna2002         |           |           |           |
 |           |                   |            |            |            |
