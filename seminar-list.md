@@ -93,7 +93,7 @@
 |           |                   |            |            |            |
 | 나정연      | tangamzaa         |  django  |    react   |  android  |
 |           |                   |            |            |            |
-| 노우석      | dntjr8096         |           |           |           |
+| 노우석      | dntjr8096         |  spring    |   django   |   react    |
 |           |                   |            |            |            |
 | 노현서      | serverrepairman | django | react | android |
 |           |                   |            |            |            |
