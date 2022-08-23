@@ -167,7 +167,7 @@
 |           |                   |            |            |            |
 | 안광휘      | muscleup15        |  react    | spring    |  ios      |
 |           |                   |            |            |            |
-| 안동하      | 2019dahn          |           |           |           |
+| 안동하      | 2019dahn          |   react   |  android  |  django   |
 |           |                   |            |            |            |
 | 안진영      | AhnJinYoung       |           |           |           |
 |           |                   |            |            |            |
