@@ -201,7 +201,7 @@
 |           |                   |            |            |            |
 | 윤재웅      | woong97           |   spring    |   django   |   react    |
 |           |                   |            |            |            |
-| 윤현호      | HyeonHoYoon28     |           |           |           |
+| 윤현호      | HyeonHoYoon28     | django | react | android |
 |           |                   |            |            |            |
 | 윤효정      | emilyyoon3107     | react | android | django |
 |           |                   |            |            |            |
