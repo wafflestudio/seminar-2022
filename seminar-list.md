@@ -65,7 +65,7 @@
 |           |                   |            |            |            |
 | 김아연      | kay1918           |  django   |  react    |  spring   |
 |           |                   |            |            |            |
-| 김영진      | esctabcapslock    |           |           |           |
+| 김영진      | esctabcapslock    | django | spring | react |
 |           |                   |            |            |            |
 | 김예지      | lerrybe           | react | spring | iOS |
 |           |                   |            |            |            |
