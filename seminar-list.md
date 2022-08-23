@@ -187,7 +187,7 @@
 |           |                   |            |            |            |
 | 오준석      | OhJoonseok        |           |           |           |
 |           |                   |            |            |            |
-| 오태양      | fivessun5         |           |           |           |
+| 오태양      | fivessun5         |   django  |  spring   |      ios  |
 |           |                   |            |            |            |
 | 우혁준      | huGgW             |           |           |           |
 |           |                   |            |            |            |
