@@ -119,7 +119,7 @@
 |           |                   |            |            |            |
 | 박정헌      | impri2            |   django        |     react      |  iOS         |
 |           |                   |            |            |            |
-| 박지형      | ImPJH             |           |           |           |
+| 박지형      | ImPJH             | django          |spring           |android           |
 |           |                   |            |            |            |
 | 박찬영      | vitacpark         | Django | Spring | react |
 |           |                   |            |            |            |
