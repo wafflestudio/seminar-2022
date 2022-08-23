@@ -211,7 +211,7 @@
 |           |                   |            |            |            |
 | 이석찬      | sukchan-0811      |           |           |           |
 |           |                   |            |            |            |
-| 이선재      | snjlee58          |           |           |           |
+| 이선재      | snjlee58          |   iOS      |  android   |   react    |
 |           |                   |            |            |            |
 | 이수현      | Souhyun           |    android     |   spring     |   iOS   |
 |           |                   |            |            |            |
