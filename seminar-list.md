@@ -239,7 +239,7 @@
 |           |                   |            |            |            |
 | 이희승      | rayark1           |           |           |           |
 |           |                   |            |            |            |
-| 임수       | dlatn4389         |           |           |           |
+| 임수       | dlatn4389         |   Django  |   Spring   |   react   |
 |           |                   |            |            |            |
 | 임승규      | skyu-lim          |           |           |           |
 |           |                   |            |            |            |
