@@ -299,7 +299,7 @@
 |           |                   |            |            |            |
 | 홍승욱      | seung-wook-0111   |           |           |           |
 |           |                   |            |            |            |
-| 홍승재      | erhayer           |           |           |           |
+| 홍승재      | erhayer           |   Django  |    iOS    |   react   |
 |           |                   |            |            |            |
 | 홍희주      | jeenakit          |           |           |           |
 |           |                   |            |            |            |
