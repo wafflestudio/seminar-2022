@@ -49,7 +49,7 @@
 |           |                   |            |            |            |
 | 김민성      | minchok125        |           |           |           |
 |           |                   |            |            |            |
-| 김민재      | lenyemu           |           |           |           |
+| 김민재      | lenyemu           |  django   |  android  |   react   |
 |           |                   |            |            |            |
 | 김민중      | arkrangian        | django | spring | react |
 |           |                   |            |            |            |
