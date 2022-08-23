@@ -31,7 +31,7 @@
 |           |                   |            |            |            |
 | 곽민지      | Joanne19-drive    |           |           |           |
 |           |                   |            |            |            |
-| 구본재      | bonjaeku02        |           |           |           |
+| 구본재      | bonjaeku02        | django    |  react    | android   |
 |           |                   |            |            |            |
 | 권은진      | kjinny            |           |           |           |
 |           |                   |            |            |            |
