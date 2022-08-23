@@ -67,7 +67,7 @@
 |           |                   |            |            |            |
 | 김영진      | esctabcapslock    |           |           |           |
 |           |                   |            |            |            |
-| 김예지      | lerrybe           |           |           |           |
+| 김예지      | lerrybe           | react | spring | iOS |
 |           |                   |            |            |            |
 | 김용현      | mined2022         |spring           |django           |react           |
 |           |                   |            |            |            |
