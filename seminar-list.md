@@ -103,8 +103,8 @@
 |           |                   |            |            |            |
 | 마건호      | gwonllna          |           |           |           |
 |           |                   |            |            |            |
-| 박건률      | gunrpark          |           |           |           |
-|           |                     |  iOS      |  Django   |   React   |
+| 박건률      | gunrpark          |   iOS     |  Django   |   React   |
+|           |                   |            |            |            |
 | 박경록      | tasel220          |           |           |           |
 |           |                   |            |            |            |
 | 박상권      | CookieBean        |           |           |           |
