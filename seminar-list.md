@@ -85,7 +85,7 @@
 |           |                   |            |            |            |
 | 김지아      | kimjia            |           |           |           |
 |           |                   |            |            |            |
-| 김채현      | Chaenniee         |           |           |           |
+| 김채현      | Chaenniee         |   react   |   django  |    iOS    |
 |           |                   |            |            |            |
 | 김하늘      | kimhaneal11       |           |           |           |
 |           |                   |            |            |            |
