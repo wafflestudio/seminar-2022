@@ -73,7 +73,7 @@
 |           |                   |            |            |            |
 | 김유신      | catnip033         |  django   |  android  |  spring   |
 |           |                   |            |            |            |
-| 김은혜      | gracekim027       |           |           |           |
+| 김은혜      | gracekim027       |iOS       | django     |   react  |
 |           |                   |            |            |            |
 | 김재영      | JaeyeongKim00     | Django    | Spring    | react     |
 |           |                   |            |            |            |
