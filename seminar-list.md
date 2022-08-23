@@ -121,7 +121,7 @@
 |           |                   |            |            |            |
 | 박지형      | ImPJH             |           |           |           |
 |           |                   |            |            |            |
-| 박찬영      | vitacpark         |           |           |           |
+| 박찬영      | vitacpark         | Django | Spring | react |
 |           |                   |            |            |            |
 | 박채현      | p-ark             |     iOS   |    react  |    spring |
 |           |                   |            |            |            |
