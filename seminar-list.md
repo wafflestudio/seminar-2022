@@ -269,7 +269,7 @@
 |           |                   |            |            |            |
 | 조성민      | sungsung718       | Django          | react          | android          |
 |           |                   |            |            |            |
-| 조용찬      | mechanicjo        |           |           |           |
+| 조용찬      | mechanicjo        | spring | django | android |
 |           |                   |            |            |            |
 | 조유진      | Joeyoojin         |  react  |   android   |   iOS    |
 |           |                   |            |            |            |
