@@ -35,7 +35,7 @@
 |           |                   |            |            |            |
 | 권은진      | kjinny            | android | django | react |
 |           |                   |            |            |            |
-| 권재영      | jaylions          |           |           |           |
+| 권재영      | jaylions          |  Spring   | React     |   Django  |
 |           |                   |            |            |            |
 | 김기성      | Githeong          |  Django   |   Spring  |  android  |
 |           |                   |            |            |            |
