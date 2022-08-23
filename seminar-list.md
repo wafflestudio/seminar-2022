@@ -91,7 +91,7 @@
 |           |                   |            |            |            |
 | 김희서      | grace0068         |           |           |           |
 |           |                   |            |            |            |
-| 나정연      | tangamzaa         |           |           |           |
+| 나정연      | tangamzaa         |  django  |    react   |  android  |
 |           |                   |            |            |            |
 | 노우석      | dntjr8096         |           |           |           |
 |           |                   |            |            |            |
