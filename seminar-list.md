@@ -105,7 +105,7 @@
 |           |                   |            |            |            |
 | 박건률      | gunrpark          |           |           |           |
 |           |                   |            |            |            |
-| 박경록      | tasel220          |           |           |           |
+| 박경록      | tasel220          | spring    |   android    |   django   |
 |           |                   |            |            |            |
 | 박상권      | CookieBean        |           |           |           |
 |           |                   |            |            |            |
