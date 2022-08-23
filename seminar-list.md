@@ -265,7 +265,7 @@
 |           |                   |            |            |            |
 | 조민경      | chominkyung12     |   django   |    iOS    |    android  |
 |           |                   |            |            |            |
-| 조성규      | skfotakf          |           |           |           |
+| 조성규      | skfotakf          |   Spring  |  React    |  Android  |
 |           |                   |            |            |            |
 | 조성민      | sungsung718       |           |           |           |
 |           |                   |            |            |            |
