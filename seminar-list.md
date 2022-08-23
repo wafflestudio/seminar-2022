@@ -245,7 +245,7 @@
 |           |                   |            |            |            |
 | 임찬솔      | Limchansol        |           |           |           |
 |           |                   |            |            |            |
-| 장승현      | jang1751          |           |           |           |
+| 장승현      | jang1751          |  django   |  spring   |  android  |
 |           |                   |            |            |            |
 | 전윤경      | cyk0315           |           |           |           |
 |           |                   |            |            |            |
