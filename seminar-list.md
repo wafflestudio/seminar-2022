@@ -241,7 +241,7 @@
 |           |                   |            |            |            |
 | 임수       | dlatn4389         |   Django  |   Spring   |   react   |
 |           |                   |            |            |            |
-| 임승규      | skyu-lim          |           |           |           |
+| 임승규      | skyu-lim          |   Spring  |  Django   |     iOS   |
 |           |                   |            |            |            |
 | 임찬솔      | Limchansol        |   react    |   django    |   spring    |
 |           |                   |            |            |            |
