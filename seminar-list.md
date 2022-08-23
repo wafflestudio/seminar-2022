@@ -143,7 +143,7 @@
 |           |                   |            |            |            |
 | 서유완      | mathema123        | django  | react    |  spring |
 |           |                   |            |            |            |
-| 서지희      | seozzi            |           |           |           |
+| 서지희      | seozzi            |  spring   |    react  |   django  |
 |           |                   |            |            |            |
 | 손유진      | eujin-son         |    react  |   spring  | ios       |
 |           |                   |            |            |            |
