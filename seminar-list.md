@@ -47,7 +47,7 @@
 |           |                   |            |            |            |
 | 김령교      | lumirevel         |    iOS    |  django   |   react   |
 |           |                   |            |            |            |
-| 김민성      | minchok125        |           |           |           |
+| 김민성      | minchok125        |   react   |   django  |   spring  |
 |           |                   |            |            |            |
 | 김민재      | lenyemu           |  django   |  android  |   react   |
 |           |                   |            |            |            |
