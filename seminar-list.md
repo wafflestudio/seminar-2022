@@ -141,7 +141,7 @@
 |           |                   |            |            |            |
 | 서보성      | Boseong-Seo       |  spring   |   iOS     |  django   |
 |           |                   |            |            |            |
-| 서유완      | mathema123        |           |           |           |
+| 서유완      | mathema123        | django  | react    |  spring |
 |           |                   |            |            |            |
 | 서지희      | seozzi            |           |           |           |
 |           |                   |            |            |            |
