@@ -55,7 +55,7 @@
 |           |                   |            |            |            |
 | 김서연      | kimtjdus          |           |           |           |
 |           |                   |            |            |            |
-| 김성범      | sbkim28           |           |           |           |
+| 김성범      | sbkim28           |django   |spring      |react   |
 |           |                   |            |            |            |
 | 김수민      | Sumin-Kim-dev     |           |           |           |
 |           |                   |            |            |            |
