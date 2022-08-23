@@ -191,7 +191,7 @@
 |           |                   |            |            |            |
 | 우혁준      | huGgW             |           |           |           |
 |           |                   |            |            |            |
-| 유주성      | joosung03         |           |           |           |
+| 유주성      | joosung03         | django  |  react   |   android  |
 |           |                   |            |            |            |
 | 유창민      | fluentmin         |           |           |           |
 |           |                   |            |            |            |
