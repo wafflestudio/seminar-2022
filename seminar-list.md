@@ -183,7 +183,7 @@
 |           |                   |            |            |            |
 | 오동건      | ho2921ho          |           |           |           |
 |           |                   |            |            |            |
-| 오재원      | dhwodnjs          |           |           |           |
+| 오재원      | dhwodnjs          | django | spring | android |
 |           |                   |            |            |            |
 | 오준석      | OhJoonseok        |           |           |           |
 |           |                   |            |            |            |
