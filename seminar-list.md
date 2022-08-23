@@ -237,7 +237,7 @@
 |           |                   |            |            |            |
 | 이호준      | BDlhj             |     django      |     react      |     spring      |
 |           |                   |            |            |            |
-| 이희승      | rayark1           |           |           |           |
+| 이희승      | rayark1           | Django | Spring | iOS |
 |           |                   |            |            |            |
 | 임수       | dlatn4389         |   Django  |   Spring   |   react   |
 |           |                   |            |            |            |
