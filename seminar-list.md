@@ -267,7 +267,7 @@
 |           |                   |            |            |            |
 | 조성규      | skfotakf          |   Spring  |  React    |  Android  |
 |           |                   |            |            |            |
-| 조성민      | sungsung718       |           |           |           |
+| 조성민      | sungsung718       | Django          | react          | android          |
 |           |                   |            |            |            |
 | 조용찬      | mechanicjo        |           |           |           |
 |           |                   |            |            |            |
