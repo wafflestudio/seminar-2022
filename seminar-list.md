@@ -185,7 +185,7 @@
 |           |                   |            |            |            |
 | 오재원      | dhwodnjs          | django | spring | android |
 |           |                   |            |            |            |
-| 오준석      | OhJoonseok        |           |           |           |
+| 오준석      | OhJoonseok        |  iOS       |  Spring    |  React    |
 |           |                   |            |            |            |
 | 오태양      | fivessun5         |   django  |  spring   |      ios  |
 |           |                   |            |            |            |
