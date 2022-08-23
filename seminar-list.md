@@ -199,7 +199,7 @@
 |           |                   |            |            |            |
 | 윤유상      | fyoon46           | react | android | django |
 |           |                   |            |            |            |
-| 윤재웅      | woong97           |           |           |           |
+| 윤재웅      | woong97           |   spring    |   django   |   react    |
 |           |                   |            |            |            |
 | 윤현호      | HyeonHoYoon28     |           |           |           |
 |           |                   |            |            |            |
