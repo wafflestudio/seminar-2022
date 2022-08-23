@@ -261,7 +261,7 @@
 |           |                   |            |            |            |
 | 정택진      | PAKAFAN           |   spring  |   django  |    react  |
 |           |                   |            |            |            |
-| 제갈준영     | Jack-Chagarr      |           |           |           |
+| 제갈준영     | Jack-Chagarr      |   spring  |  django   |   react   |
 |           |                   |            |            |            |
 | 조민경      | chominkyung12     |   django   |    iOS    |    android  |
 |           |                   |            |            |            |
