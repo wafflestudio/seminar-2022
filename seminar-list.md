@@ -301,7 +301,7 @@
 |           |                   |            |            |            |
 | 홍승재      | erhayer           |   Django  |    iOS    |   react   |
 |           |                   |            |            |            |
-| 홍희주      | jeenakit          |           |           |           |
+| 홍희주      | jeenakit          |    iOS    | android   |    spring  |
 |           |                   |            |            |            |
 | 황명빈      | bean1009        |   django   |   spring   |  android  |
 |           |                   |            |            |            |
