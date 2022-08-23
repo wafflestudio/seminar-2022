@@ -179,7 +179,7 @@
 |           |                   |            |            |            |
 | 엄성호      | SHEOMM            |   spring        |    android       |     react      |
 |           |                   |            |            |            |
-| 염혜지      | sententi-a        |           |           |           |
+| 염혜지      | sententi-a        |   django  |   react   |    iOS    |
 |           |                   |            |            |            |
 | 오동건      | ho2921ho          |           |           |           |
 |           |                   |            |            |            |
