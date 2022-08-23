@@ -115,7 +115,7 @@
 |           |                   |            |            |            |
 | 박재민      | arnold518         | django | spring | android |
 |           |                   |            |            |            |
-| 박재웅      | PJaewoong         |           |           |           |
+| 박재웅      | PJaewoong         | react | django | android |
 |           |                   |            |            |            |
 | 박정헌      | impri2            |   django        |     react      |  iOS         |
 |           |                   |            |            |            |
