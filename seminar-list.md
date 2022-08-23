@@ -57,7 +57,7 @@
 |           |                   |            |            |            |
 | 김성범      | sbkim28           |django   |spring      |react   |
 |           |                   |            |            |            |
-| 김수민      | Sumin-Kim-dev     |           |           |           |
+| 김수민      | Sumin-Kim-dev     |  spring   |  django   |   react   |
 |           |                   |            |            |            |
 | 김수민      | sootreeah         |           |           |           |
 |           |                   |            |            |            |
