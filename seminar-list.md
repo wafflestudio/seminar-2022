@@ -263,7 +263,7 @@
 |           |                   |            |            |            |
 | 제갈준영     | Jack-Chagarr      |           |           |           |
 |           |                   |            |            |            |
-| 조민경      | chominkyung12     |           |           |           |
+| 조민경      | chominkyung12     |   django   |    iOS    |    android  |
 |           |                   |            |            |            |
 | 조성규      | skfotakf          |           |           |           |
 |           |                   |            |            |            |
