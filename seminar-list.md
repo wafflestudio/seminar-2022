@@ -89,7 +89,7 @@
 |           |                   |            |            |            |
 | 김하늘      | kimhaneal11       |           |           |           |
 |           |                   |            |            |            |
-| 김희서      | grace0068         |           |           |           |
+| 김희서      | grace0068         |  Django   |  Spring   |  React    |
 |           |                   |            |            |            |
 | 나정연      | tangamzaa         |  django  |    react   |  android  |
 |           |                   |            |            |            |
