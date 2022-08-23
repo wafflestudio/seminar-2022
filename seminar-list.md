@@ -139,7 +139,7 @@
 |           |                   |            |            |            |
 | 서민후      | seomhoo           |           |           |           |
 |           |                   |            |            |            |
-| 서보성      | Boseong-Seo       |           |           |           |
+| 서보성      | Boseong-Seo       |  spring   |   iOS     |  django   |
 |           |                   |            |            |            |
 | 서유완      | mathema123        |           |           |           |
 |           |                   |            |            |            |
