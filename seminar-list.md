@@ -289,7 +289,7 @@
 |           |                   |            |            |            |
 | 최재훈      | jaehoony0911      |           |           |           |
 |           |                   |            |            |            |
-| 최진호      | dandyday          |           |           |           |
+| 최진호      | dandyday          |   django   |   spring   |   react   |
 |           |                   |            |            |            |
 | 한우현      | whwoohw           |           |           |           |
 |           |                   |            |            |            |
