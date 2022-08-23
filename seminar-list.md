@@ -145,7 +145,7 @@
 |           |                   |            |            |            |
 | 서지희      | seozzi            |           |           |           |
 |           |                   |            |            |            |
-| 손유진      | eujin-son         |           |           |           |
+| 손유진      | eujin-son         |    react  |   spring  | ios       |
 |           |                   |            |            |            |
 | 송건우      | Gitsgwoo          |  android  |   ios     |  django   |
 |           |                   |            |            |            |
