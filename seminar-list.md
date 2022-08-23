@@ -219,7 +219,7 @@
 |           |                   |            |            |            |
 | 이아영      | aylee2008         |   react   |  django   |    iOS    |
 |           |                   |            |            |            |
-| 이영은      | 2-0-is            |           |           |           |
+| 이영은      | 2-0-is            | react | spring | django |
 |           |                   |            |            |            |
 | 이재운      | theolee72         |    react |   django  |    spring |
 |           |                   |            |            |            |
