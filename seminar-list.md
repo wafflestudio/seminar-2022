@@ -107,7 +107,7 @@
 |           |                   |            |            |            |
 | 박경록      | tasel220          | spring    |   android    |   django   |
 |           |                   |            |            |            |
-| 박상권      | CookieBean        |           |           |           |
+| 박상권      | CookieBean        | react          | spring          | iOS          |
 |           |                   |            |            |            |
 | 박송희      | songheezi9        |           |           |           |
 |           |                   |            |            |            |
