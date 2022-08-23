@@ -189,7 +189,7 @@
 |           |                   |            |            |            |
 | 오태양      | fivessun5         |   django  |  spring   |      ios  |
 |           |                   |            |            |            |
-| 우혁준      | huGgW             |           |           |           |
+| 우혁준      | huGgW             | spring    | django    | react     |
 |           |                   |            |            |            |
 | 유주성      | joosung03         | django  |  react   |   android  |
 |           |                   |            |            |            |
