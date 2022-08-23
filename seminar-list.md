@@ -193,7 +193,7 @@
 |           |                   |            |            |            |
 | 유주성      | joosung03         | django  |  react   |   android  |
 |           |                   |            |            |            |
-| 유창민      | fluentmin         |           |           |           |
+| 유창민      | fluentmin         |react      |Spring     |Django           |
 |           |                   |            |            |            |
 | 윤소영      | hotmilk           |  spring   |   react   |   django  |
 |           |                   |            |            |            |
