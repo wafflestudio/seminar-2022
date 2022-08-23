@@ -33,7 +33,7 @@
 |           |                   |            |            |            |
 | 구본재      | bonjaeku02        | django    |  react    | android   |
 |           |                   |            |            |            |
-| 권은진      | kjinny            |           |           |           |
+| 권은진      | kjinny            | android | django | react |
 |           |                   |            |            |            |
 | 권재영      | jaylions          |           |           |           |
 |           |                   |            |            |            |
@@ -305,7 +305,6 @@
 |           |                   |            |            |            |
 | 황명빈      | bean1009        |   django   |   spring   |  android  |
 |           |                   |            |            |            |
-
 
 
 
