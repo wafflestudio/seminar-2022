@@ -9,17 +9,17 @@
     <td>제목</td>
     <td>시간</td>
     <td>장소</td>
-    <td>사전 준비 사항</td>
+    <td>사전 준비</td>
     <td>자료</td>
     <td>과제</td>
-    <td>zoom 링크</td>
+    <td>zoom</td>
     <td>영상</td>
   </tr>
   <tr>
     <td>0</td>
     <td>REST API와 Django를 공부하는 법</td>
     <td>9월 6일 (화) 오후 7시</td>
-    <td>강남 세미나룸</td>
+    <td>강남</td>
     <td></td>
     <td></td>
     <td></td>
@@ -30,7 +30,7 @@
     <td>1</td>
     <td>Django에서의 MVC와 Class based view</td>
     <td>9월 20일 (화) 오후 7시</td>
-    <td>강남 세미나룸</td>
+    <td>강남</td>
     <td></td>
     <td></td>
     <td></td>
@@ -41,7 +41,7 @@
     <td>2</td>
     <td>Model Relationships과 QuerySet</td>
     <td>10월 4일 (화) 오후 7시</td>
-    <td>강남 세미나룸</td>
+    <td>강남</td>
     <td></td>
     <td></td>
     <td></td>
@@ -55,7 +55,7 @@
     <td>3</td>
     <td>Django Rest Framework 톺아보기</td>
     <td>11월 1일 (화) 오후 7시</td>
-    <td>강남 세미나룸</td>
+    <td>강남</td>
     <td></td>
     <td></td>
     <td></td>
@@ -66,7 +66,7 @@
     <td>4</td>
     <td>Django가 왜 느려질까? 퍼포먼스 최적화</td>
     <td>11월 15일 (화) 오후 7시</td>
-    <td>강남 세미나룸</td>
+    <td>강남</td>
     <td></td>
     <td></td>
     <td></td>
@@ -77,7 +77,7 @@
     <td>5</td>
     <td>서버 개발자가 실제로 겪게 되는 일</td>
     <td>11월 29일 (화) 오후 7시</td>
-    <td>강남 세미나룸</td>
+    <td>강남</td>
     <td></td>
     <td></td>
     <td></td>
