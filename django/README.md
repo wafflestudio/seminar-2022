@@ -93,10 +93,10 @@
 ## 링크
 
 - [#seminar-django](): 세미나 관련 소통이 이루어질 슬랙 채널입니다.
-- [#seminar-django-qna](): 세미나 질문들이 모두 볼 수 있도록 기록될 채널입니다.
+- [#seminar-django-qna](): 세미나 질답이 이루어질 슬랙 채널입니다. 추후에도 모두 볼 수 있도록 꼭 필요한 내용만 유지할 채널입니다.
 
 
-## 안내 사항
+## 공지사항
 
 - [이 수업을 통해 무엇을 배울 수 있나요?](./documents/01_%EC%88%98%EC%97%85%20%EB%AA%A9%ED%91%9C.md)
 - [Programmers로 선발은 어떻게 이루어지나요?](./documents/02_Programmers%20%EC%84%A0%EB%B0%9C%20%EC%95%88%EB%82%B4.md)
