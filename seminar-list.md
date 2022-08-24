@@ -155,7 +155,7 @@
 |           |                   |            |            |            |
 | 송형석      | ihyungsuk         | Django    | react     | Spring    |
 |           |                   |            |            |            |
-| 신재훈      | crayfish-s        |           |           |           |
+| 신재훈      | crayfish-s        |   spring   |   android  |  react  |
 |           |                   |            |            |            |
 | 신정민      | sjm150            | Spring    | Django    | react      |
 |           |                   |            |            |            |
