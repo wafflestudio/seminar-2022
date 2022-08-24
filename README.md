@@ -69,7 +69,7 @@
 <summary>Django</summary>
 <br>
   
-[일정](./django/README.md#수업-일정-및-자료)
+[수업 일정 및 자료](./django/README.md#수업-일정-및-자료)
 
 <br>
 </details>
