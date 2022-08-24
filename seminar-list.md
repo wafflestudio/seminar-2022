@@ -109,7 +109,7 @@
 |           |                   |            |            |            |
 | 박상권      | CookieBean        | react          | spring          | iOS          |
 |           |                   |            |            |            |
-| 박송희      | songheezi9        |           |           |           |
+| 박송희      | songheezi9        | spring     | iOS       | django    |
 |           |                   |            |            |            |
 | 박용주      | tomatozoo         | Django    | React     |  Android  |
 |           |                   |            |            |            |
