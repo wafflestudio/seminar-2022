@@ -27,6 +27,16 @@ const addElem = () => {
     ul.appendChild(newLi);
 }
 
-console.log('js 파일은 지금 연결돼요')
+const myButton = document.getElementById("my-button")
+myButton.addEventListener("click", (e) => {
+    // DOM으로 등록하면 Event 오브젝트를 얻어올 수 있습니다
+    let message = `(x, y) = (${e.x}, ${e.y})`;
+    if (e.ctrlKey) message += ", CTRL";
+    if (e.altKey) message += ", ALT";
+    if (e.shiftKey) message += ", SHIFT";
+    alert(message);
+})
 
-console.debug('디버그 모드도 있음')
+console.log('js 파일은 지금 연결돼요');
+
+console.debug('디버그 모드도 있음');
