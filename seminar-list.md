@@ -59,7 +59,7 @@
 |           |                   |            |            |            |
 | 김수민      | Sumin-Kim-dev     |  spring   |  django   |   react   |
 |           |                   |            |            |            |
-| 김수민      | sootreeah         |           |           |           |
+| 김수민      | sootreeah         |  django   |  react    |  spring   |
 |           |                   |            |            |            |
 | 김승진      | ksj-hikoo         | react | django | spring |
 |           |                   |            |            |            |
