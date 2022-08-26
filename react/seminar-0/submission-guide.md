@@ -3,15 +3,15 @@
 1. 자신의 Github 개인 계정에 `waffle-2022-seminar-react-assignment-0`라는 이름으로
    private repository를 개설합니다. 개설할 때 Add a README file을 체크해 주세요.
 
-![image](https://user-images.githubusercontent.com/39977696/131165209-a6da208f-e12c-4e74-9d45-321916ded169.png)
+    ![image](https://user-images.githubusercontent.com/39977696/131165209-a6da208f-e12c-4e74-9d45-321916ded169.png)
 
 2. 개설 후 Settings > Manage access 로 들어갑니다.
 
-![스크린샷 2020-08-30 02 13 52](https://user-images.githubusercontent.com/35535636/91642567-5eb9fe00-ea67-11ea-9382-89fcce03be70.png)
+    ![스크린샷 2020-08-30 02 13 52](https://user-images.githubusercontent.com/35535636/91642567-5eb9fe00-ea67-11ea-9382-89fcce03be70.png)
 
-3. collaborator 로 세미나장 @joongwon을 초대합니다.
+3. collaborator 로 세미나장 `@joongwon`을 초대합니다.
 
-![스크린샷 2020-08-30 02 14 59](https://user-images.githubusercontent.com/35535636/91642588-87da8e80-ea67-11ea-9d5a-60a3596463c9.png)
+    ![스크린샷 2020-08-30 02 14 59](https://user-images.githubusercontent.com/35535636/91642588-87da8e80-ea67-11ea-9d5a-60a3596463c9.png)
 
 4. repository를 clone하고, `assignment`라는 이름의 브랜치를 `main`에서 체크아웃하고, 해당 브랜치에서 과제를 진행해 주세요.
 
