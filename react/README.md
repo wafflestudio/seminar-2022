@@ -11,7 +11,7 @@
 | 세미나                    | 주제                                                    | 날짜 및 시간                  |
 |------------------------|-------------------------------------------------------|--------------------------|
 | [seminar 0](seminar-0) | HTML, CSS, JS                                         | 2022.08.27 15:30 ~ 16:30 |
-| seminar 1              | React, Function Component, State, Deployment          | 2022.09.03 15:00 ~ 17:00 |
+| [seminar 1](seminar-1) | React, Function Component, State, Deployment          | 2022.09.03 15:00 ~ 17:00 |
 | seminar 2              | Component Lifecycle, Hooks, Context API, Routing      | 2022.09.17 15:00 ~ 17:00 |
 | seminar 3              | Promise, HTTP                                         | 2022.09.24 15:00 ~ 17:00 |
 | seminar 4              | Advanced React, Typescript, Advanced CSS, Performance | 2022.10.15 15:00 ~ 17:00 |
