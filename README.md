@@ -79,15 +79,8 @@
 <details>
 <summary>Kotlin Spring MVC + JPA</summary>
 <br>
-  
-| 회차     | 시간 | 장소 | 자료 | 과제 | 참여 링크 | 영상 |
-| ------- |---- | ---- | ---- | ---- | ---- | ---- |
-| seminar0 | 9월 6일 (화) 오후 7시 30분 ||||||
-| seminar1 |||||||
-| seminar2 |||||||
-| seminar3 |||||||
-| seminar4 |||||||
-| seminar5 |||||||
+
+[수업 일정 및 자료](./spring/README.md#수업-일정-및-자료)
 
 <br>
 </details>

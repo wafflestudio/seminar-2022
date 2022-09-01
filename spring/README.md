@@ -19,8 +19,8 @@
     <td>REST API, Spring Boot, 그리고 Kotlin</td>
     <td>9월 6일 (화) 오후 7시 30분</td>
     <td>강남</td>
-    <td><a href="./seminar0/material.pdf">Link</a></td>
-    <td></td>
+    <td><a href="./seminar0/material.pdf">링크</a></td>
+    <td><a href="https://github.com/wafflestudio/seminar-2022-springboot-assignment/blob/main/seminar0/assignment.md">링크</a></td>
     <td></td>
     <td></td>
   </tr>
