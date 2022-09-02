@@ -19,25 +19,21 @@ const AddTodo = ({ addTodo }) => {
 
   return (
     <div className="add-todo">
-      {inputVisible && (
-        <form
-          className="new-todo-container"
-          onSubmit={(e) => {
-            e.preventDefault();
-            onSubmit();
-          }}
-        >
-          <input
-            className="new-todo"
-            placeholder="할 일을 입력 후, Enter 를 누르세요"
-            value={newTodoContent}
-            onChange={(e) => setNewTodoContent(e.target.value)}
-          />
-          <input type="submit" hidden />
-        </form>
-      )}
+      <form
+        className="new-todo-container"
+        onSubmit={(e) => {
+          e.preventDefault();
+          onSubmit();
+        }}
+      >
+        <input
+          className="new-todo"
+          placeholder="할 일을 입력 후, Enter 를 누르세요"
+        />
+        <input type="submit" hidden />
+      </form>
       <button
-        className={`toggle ${inputVisible ? "close" : "add"}`}
+        className="toggle"
         onClick={toggleVisible}
       >
         <img src={add} alt="" />

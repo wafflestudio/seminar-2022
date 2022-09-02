@@ -31,12 +31,9 @@ function App() {
     setMaxId(maxId + 1);
   };
 
-  // 완료되지 않은 todo 개수
-  const todoCount = todos.filter((todo) => todo.status === "todo").length;
-
   return (
     <div className="app">
-      <Header todoCount={todoCount} />
+      <Header todoCount={999999} />
       <List todos={todos} updateTodo={updateTodo} />
       <AddTodo addTodo={addTodo} />
     </div>
