@@ -1,0 +1,14 @@
+.header {
+    border-bottom: solid 1px #aaa;
+}
+
+.header h2 {
+    font-size: 20px;
+    color: #888;
+    font-weight: normal;
+}
+
+.header .todo-count {
+    color: green;
+    font-weight: bold;
+}
