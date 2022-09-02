@@ -10,7 +10,7 @@
 
 ## 과제 스펙
 
-- 디자인 및 기획: 피그마(https://www.figma.com/file/b5AIN50E1qI3eiZkZxaYfS/react-assignment-1) 참조
+- 디자인 및 기획: [피그마](https://www.figma.com/file/b5AIN50E1qI3eiZkZxaYfS/react-assignment-1) 참조
 - 스펙
     1. 종합
         - 추가, 수정, 삭제 기능이 있는 메뉴 관리 프로그램이다.
@@ -62,6 +62,8 @@
     6. 배포를 해야 한다.
         - aws 개인 계정을 생성하고, 그를 이용해 만든 사이트를 빌드하고 S3과 cloudfront에 배포한다.
         - cloudfront에 배포된 url을 PR과 리드미에 첨부한다.
+        - `package.json`을 수정하여 소스맵이 안 보이게 한다.
+          - `"build": "GENERATE_SOURCEMAP=false react-scripts build`
 
 ## 주의사항
 
