@@ -19,9 +19,9 @@
     <td>0</td>
     <td>REST API와 Django를 공부하는 법</td>
     <td>9월 6일 (화) 오후 7시</td>
-    <td><a href="https://place.map.kakao.com/9732239">강남 라이지움</td>
+    <td><a href="https://place.map.kakao.com/9732239">강남 라이지움</a></td>
     <td><a href="./seminar0/사전준비.md">링크</a></td>
-    <td></td>
+    <td><a href="./seminar0/seminar-2022-django-00.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment0">링크</a></td>
     <td></td>
     <td></td>
