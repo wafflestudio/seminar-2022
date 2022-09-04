@@ -1,0 +1,105 @@
+.app {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    border-bottom: solid thin;
+    background: lightcyan;
+    display: flex;
+    padding: 5px;
+}
+
+.fill {
+    flex: 1;
+    border: none;
+}
+
+.title-container {
+    display: flex;
+    align-items: center;
+    color: inherit;
+    text-decoration-line: none;
+}
+
+.logo {
+    margin: 10px;
+}
+
+.title {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+#help {
+    box-sizing: border-box;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border: solid thin;
+    background: lightgray;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#menu-list {
+    padding: 10px;
+    border: dotted 2px;
+    margin: 10px;
+    width: 300px;
+    max-width: 90vw;
+    border-radius: 10px;
+    height: 300px;
+    overflow-y: auto;
+}
+
+.menu-item {
+    list-style: none;
+    border-bottom: solid thin;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.menu-item:first-child {
+    border-top: solid thin;
+}
+
+#new-menu-form {
+    display: flex;
+}
+
+#new-menu, .new-menu-add {
+    border: solid thin;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    height: 30px;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+button, input[type="submit"] {
+    cursor: pointer;
+}
+
+body {
+    margin: 0;
+}
