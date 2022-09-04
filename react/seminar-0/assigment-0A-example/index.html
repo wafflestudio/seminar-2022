@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8"/>
+    <title>와플스튜디오 메뉴 관리</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div class="app">
+    <header class="header">
+        <a class="title-container" href="https://wafflestudio.com" target="_blank">
+            <img class="logo" src="waffle-logo.svg" width="50px" alt="와플스튜디오"/>
+            <h1 class="title">와플스튜디오 메뉴 관리</h1>
+        </a>
+        <hr class="fill"/>
+        <button id="help">?</button>
+    </header>
+    <main class="main">
+        <ul id="menu-list">
+            <li class="menu-item">딸기와플</li>
+            <li class="menu-item">초코와플</li>
+            <li class="menu-item">좋은와플</li>
+        </ul>
+        <form id="new-menu-form">
+            <label>
+                메뉴 이름:
+                <input id="new-menu" placeholder="맛있는와플"/>
+            </label>
+            <input class="new-menu-add" type="submit" value="추가"/>
+        </form>
+    </main>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
