@@ -111,7 +111,7 @@
   
 | 회차     | 시간 | 장소 | 자료 | 과제 | 참여 링크 | 영상 |
 | ------- |---- | ---- | ---- | ---- | ---- | ---- |
-| seminar0 | 9월 6일 (화) 오후 7시 30분 ||||||
+| seminar0 | 9월 6일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 |[자료](ios/seminar0/iOS-seminar0.pdf)||||
 | seminar1 |||||||
 | seminar2 |||||||
 | seminar3 |||||||
@@ -139,3 +139,6 @@
 [React_1_PPT]: https://docs.google.com/presentation/d/1Hv34EJTSGge8KyoIuLq-P0mb_gaN1lEWgFVgzw4kR20/edit?usp=sharing
 [React_1_Assignment]: react/seminar-1/assignment-1.md
 [React_1_Video]: https://youtu.be/7o0TZJA0zoA
+
+
+[iOS_0_Location]: https://www.spacecloud.kr/space/6886?type=search
