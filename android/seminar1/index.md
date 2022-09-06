@@ -45,7 +45,6 @@ fun greetingMessageFor(name: String): String {
 1. Kotlin 에서 함수를 선언하기 위한 단어는?
 2. Kotlin 에서 불변 변수(?) 를 선언하기 위한 단어는?
 3. Kotlin 에서 가변 변수(?) 를 선언하기 위한 단어는?
-4. 
 
 
 ---
