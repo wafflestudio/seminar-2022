@@ -16,13 +16,14 @@
 - 비밀번호 textfield는 입력시 '***'와 같이 마스킹되어야 합니다. 
 - 세 개의 textfield는 하나의 UiView 또는 UIStackView로 감싸져 있어야 합니다. (다음 그림을 참고해주세요)
 
-<img width="500" alt="home" src="https://user-images.githubusercontent.com/48316900/188650564-3740fa61-28ba-477b-9ec9-ced925203acb.png">
+<img width="300" alt="home" src="https://user-images.githubusercontent.com/48316900/188650564-3740fa61-28ba-477b-9ec9-ced925203acb.png">
 
 2. 유저 정보 화면
 - 홈 화면에서 UserInfo로 넘겨 준 username과 email을 보여줍니다.
 - 두 개의 label 하단에 로그아웃 버튼이 있고, 탭하면 다시 홈 화면으로 돌아갑니다
+![Simulator Screen Shot - iPhone 13 Pro - 2022-09-06 at 22 45 23]()
 
-<img width="500" alt="home" src="https://user-images.githubusercontent.com/48316900/188650593-c7058cc1-8819-4cc3-8d68-90e2f13082a3.png">
+<img width="300" alt="home" src="https://user-images.githubusercontent.com/48316900/188651288-5193b54c-dba0-4c45-85bc-66d190a31c8b.png">
 
 ## 추가 과제
 - 홈 화면에서 username, email, password를 입력하고 유저 정보로 넘어간 후, 앱을 종료했다가 다시 실행하더라도 홈 화면이 아니라 직전 로그인한 유저 정보가 나타날 수 있도록 구현해주세요
