@@ -23,7 +23,7 @@
     <td><a href="./seminar0/사전준비.md">링크</a></td>
     <td><a href="./seminar0/seminar-2022-django-00.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment0">링크</a></td>
-    <td><a href="https://snu-ac-kr.zoom.us/j/95753481270?pwd=blRqUDNDOEl3L1BqbDM0TkF3bHNxZz09">링크</a></td>
+    <td><a href="https://snu-ac-kr.zoom.us/j/98971848946?pwd=V0J4ZXl2N0thaFMxSWU1K0puUlE2dz09">링크</a></td>
     <td></td>
   </tr>
   <tr>
