@@ -111,7 +111,7 @@
   
 | 회차     | 시간 | 장소 | 자료 | 과제 | 참여 링크 | 영상 |
 | ------- |---- | ---- | ---- | ---- | ---- | ---- |
-| seminar0 | 9월 6일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 |[자료](ios/seminar0/iOS-seminar0.pdf)||||
+| seminar0 | 9월 6일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 |[자료](ios/seminar0/iOS-seminar0.pdf)|[과제](ios/seminar0/assignment.md)|[줌 링크][iOS_Zoom_Link]||
 | seminar1 |||||||
 | seminar2 |||||||
 | seminar3 |||||||
@@ -142,3 +142,4 @@
 
 
 [iOS_0_Location]: https://www.spacecloud.kr/space/6886?type=search
+[iOS_Zoom_Link]: https://snu-ac-kr.zoom.us/j/3595486765?pwd=ZmFjOXYzc21uSFNTekVOOExwOURkUT09
