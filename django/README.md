@@ -29,7 +29,7 @@
   <tr>
     <td>1</td>
     <td>Django에서의 MVC와 Class based view</td>
-    <td>9월 20일 (화) 오후 7시</td>
+    <td>9월 20일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
     <td></td>
@@ -40,7 +40,7 @@
   <tr>
     <td>2</td>
     <td>Model Relationships과 QuerySet</td>
-    <td>10월 4일 (화) 오후 7시</td>
+    <td>10월 4일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
     <td></td>
@@ -54,7 +54,7 @@
   <tr>
     <td>3</td>
     <td>Django Rest Framework 톺아보기</td>
-    <td>11월 1일 (화) 오후 7시</td>
+    <td>11월 1일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
     <td></td>
@@ -65,7 +65,7 @@
   <tr>
     <td>4</td>
     <td>Django가 왜 느려질까? 퍼포먼스 최적화</td>
-    <td>11월 15일 (화) 오후 7시</td>
+    <td>11월 15일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
     <td></td>
@@ -76,7 +76,7 @@
   <tr>
     <td>5</td>
     <td>서버 개발자가 실제로 겪게 되는 일</td>
-    <td>11월 29일 (화) 오후 7시</td>
+    <td>11월 29일 (화) 오후 7시 30</td>
     <td></td>
     <td></td>
     <td></td>
