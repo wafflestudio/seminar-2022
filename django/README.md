@@ -93,7 +93,7 @@
 ## 링크
 
 - [구글 드라이브](https://drive.google.com/drive/folders/1BP5PxhAJtZUfFPXRHe_E0T7rY0IM4npE?usp=sharing)
-- [출결표](./%EC%B6%9C%EA%B2%B0%ED%91%9C.md)
+- [출결표](./https://docs.google.com/spreadsheets/d/1FGmSCwnbz0vlOmjtrsOdYU6cuH8jN7MoBtFI9hZdi1E/edit#gid=0)
 
 ## 공지사항
 
