@@ -12,7 +12,7 @@
 1. 홈 화면
 - textfield를 통해 username, email, password를 입력 받습니다.
 - '로그인' 버튼을 클릭하면 다음 view controller로 이동합니다. 이동한 view에서 입력 받은 username과 email을 보여줍니다
-- username이 두 글자 이하일 때 로그인 버튼을 클릭하면 'username은 두 글자 이상이어야 합니다' 라는 메시지의 Alert view를 띄우고, 다음 뷰로 이동하지 않습니다. 
+- username이 두 글자 미만일 때 로그인 버튼을 클릭하면 'username은 두 글자 이상이어야 합니다' 라는 메시지의 Alert view를 띄우고, 다음 뷰로 이동하지 않습니다. 
 - 비밀번호 textfield는 입력시 '***'와 같이 마스킹되어야 합니다. 
 - 세 개의 textfield는 하나의 UiView 또는 UIStackView로 감싸져 있어야 합니다. (다음 그림을 참고해주세요)
 
