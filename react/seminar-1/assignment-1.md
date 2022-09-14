@@ -1,7 +1,7 @@
-19.5-rookies Seminar 1 Assignment
+2022 React Seminar 1 Assignment
 ================================
 
-### **due: 2021.09.17(토) 23:59**
+### **due: 2022.09.17(토) 23:59**
 
 ## 과제 목적
 
