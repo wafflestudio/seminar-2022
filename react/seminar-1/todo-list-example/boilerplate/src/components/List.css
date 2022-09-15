@@ -1,0 +1,6 @@
+.todo-list {
+    flex: 1;
+    list-style: none;
+    border-bottom: solid 1px #aaa;
+    overflow-y: auto;
+}

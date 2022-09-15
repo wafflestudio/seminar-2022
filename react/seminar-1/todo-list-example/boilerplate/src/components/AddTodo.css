@@ -1,0 +1,30 @@
+.add-todo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.add-todo .toggle {
+    border-radius: 100px;
+    border: solid 1px #aaa;
+    width: 60px;
+    height: 60px;
+}
+
+.add-todo .new-todo-container {
+    width: 100%;
+    display: flex;
+}
+
+.add-todo .new-todo {
+    box-sizing: border-box;
+    margin: 10px;
+    flex: 1;
+}
+
+.add-todo .toggle.add {
+    background: green;
+}
+
+.add-todo .toggle.close {
+    background: red;
+}
