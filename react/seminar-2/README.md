@@ -1,4 +1,4 @@
-# 2022 React 세미나 0차시
+# 2022 React 세미나 2차시
 
 * 주제: Component Lifecycle, React Hooks, Context, Routing
 * 일시: 9월 17일 토요일 오후 3시 ~ 5시
