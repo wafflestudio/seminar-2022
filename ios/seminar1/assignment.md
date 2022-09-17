@@ -20,7 +20,7 @@
 - 각 Task에 해당하는 셀에는 Task의 이름과 완료 여부가 표시되어야 함.
 - Task를 완료하기 위해서는 셀 우측에 있는 완료 버튼을 눌러야 함 -> Done 되었을 경우 이름이 무언가 바뀌어야 함 (strikeThrough or text color 변화)
 
-<img width="300" alt="home" src="https://user-images.githubusercontent.com/48316900/190844737-b2f29507-41e9-4e0a-8fbe-66a13e48b5d9.png)">
+<img width="300" alt="home" src="https://user-images.githubusercontent.com/48316900/190844737-b2f29507-41e9-4e0a-8fbe-66a13e48b5d9.png">
 
 - 추가 기능 : 수정 + 삭제 기능 (어떻게 하면 좋을지는 구글링해서 찾아보시길…) -> 얘는 안 해오셔도 감점은 없으나 해오시면 어떤 식으로든 제가 권한 내에서 메리트를 드리겠습니다 (grace day 추가 등)
 - 디자인은 자유롭게 해주세요.
