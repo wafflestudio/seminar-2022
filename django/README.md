@@ -31,9 +31,9 @@
     <td>Django에서의 MVC와 Class based view</td>
     <td>9월 20일 (화) 오후 7시 30분</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="./seminar1/사전준비.md">링크</a></td>
+    <td><a href="./seminar1/seminar-2022-django-01.pdf">링크</a></td>
+    <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment1">링크</a></td>
     <td></td>
     <td></td>
   </tr>
