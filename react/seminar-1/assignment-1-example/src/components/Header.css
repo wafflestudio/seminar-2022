@@ -1,0 +1,19 @@
+.header {
+    border-bottom: solid 1px;
+    display: flex;
+    align-items: center;
+}
+
+.header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header img {
+    width: 60px;
+    margin: 10px;
+}
+
+.header h1 {
+    font-size: 20px;
+}

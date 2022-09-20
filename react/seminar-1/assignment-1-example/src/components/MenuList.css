@@ -1,0 +1,25 @@
+.menu-list {
+    border-radius: 10px;
+    border: #000 solid 1px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    list-style: none;
+    padding: 0 10px;
+    margin: 0;
+    overflow-y: auto;
+}
+
+.menu-list li {
+    display: grid;
+    grid-template-columns: 1fr 5fr 5fr;
+    padding-left: 10px;
+    align-items: center;
+    border-bottom: solid 1px #000;
+    box-sizing: border-box;
+    height: 40px;
+}
+
+.menu-list .list-header {
+    font-weight: bold;
+}
