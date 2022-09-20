@@ -30,10 +30,10 @@
     <td>1</td>
     <td>Django에서의 MVC와 Class based view</td>
     <td>9월 20일 (화) 오후 7시 30분</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://place.map.kakao.com/9732239">강남 라이지움</a></td>
+    <td><a href="./seminar1/사전준비.md">링크</a></td>
+    <td><a href="./seminar1/seminar-2022-django-01.pdf">링크</a></td>
+    <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment1">링크</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -94,6 +94,7 @@
 
 - [구글 드라이브](https://drive.google.com/drive/folders/1BP5PxhAJtZUfFPXRHe_E0T7rY0IM4npE?usp=sharing)
 - [출결표](https://docs.google.com/spreadsheets/d/1FGmSCwnbz0vlOmjtrsOdYU6cuH8jN7MoBtFI9hZdi1E/edit#gid=0)
+- [과제 제출표](https://docs.google.com/spreadsheets/d/1Of5sGYHasMMtOVZgUQBF5aVVtHH0AHllrrTuVOCJJaM/edit#gid=0)
 
 ## 공지사항
 
