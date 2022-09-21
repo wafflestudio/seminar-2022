@@ -23,6 +23,7 @@ function App() {
 
   const [search, setSearch] = useState("");
   const [modal, setModal] = useState(MODAL_NONE);
+  const [modalClosing, setModalClosing] = useState(false);
   const [selectedId, setSelectedId] = useState(null);
 
   const selectedMenu = menus.find((menu) => menu.id === selectedId) ?? null;
@@ -58,7 +59,11 @@ function App() {
   }
 
   function closeModal() {
-    setModal(MODAL_NONE);
+    setModalClosing(true);
+    setTimeout(() => {
+      setModal(MODAL_NONE);
+      setModalClosing(false);
+    }, 300);
   }
 
   return (
@@ -95,7 +100,7 @@ function App() {
       </div>
       {modal !== MODAL_NONE && (
         <div
-          className="modal-container"
+          className={`modal-container ${modalClosing ? "closing" : ""}`}
           onClick={() => {
             closeModal();
           }}

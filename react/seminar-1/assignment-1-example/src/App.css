@@ -45,4 +45,16 @@
   justify-content: center;
   background: #00000080;
   z-index: 1;
+  animation: modal-container-appear 300ms;
+}
+
+@keyframes modal-container-appear {
+  from {
+    opacity: 0;
+  }
+}
+
+.modal-container.closing {
+  opacity: 0;
+  transition: 300ms;
 }
