@@ -66,3 +66,18 @@
 .modal button.green-button {
     background: #D3FFC4;
 }
+
+.modal {
+    animation: modal-appear 300ms;
+}
+
+@keyframes modal-appear {
+    from {
+        transform: translateY(20px);
+    }
+}
+
+.closing .modal {
+    transform: translateY(20px);
+    transition: 300ms;
+}
