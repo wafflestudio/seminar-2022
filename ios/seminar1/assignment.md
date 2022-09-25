@@ -15,10 +15,10 @@
 <img width="300" alt="home" src="https://user-images.githubusercontent.com/48316900/190844730-7b7119c0-4453-48f9-b6f5-8fc02337a965.png">
 
 - NavigationBar Right Button에 버튼을 넣고 그 버튼을 탭할 경우 Task 추가 뷰로 이동
-- 그 뷰에서 입력 완료 버튼을 누르면 다시 List 뷰로 돌아오도록 구현 필요. (Todo의 content 길이는 1자 이상 20자 이하)
+- 그 뷰에서 입력 완료 버튼을 누르면 다시 List 뷰로 돌아오도록 구현 필요. (Todo의 content 길이는 1자 이상 20자 이하 : 조건 만족 시 등록 버튼 비활성화)
 - 그리고 즉시 새로 추가된 Task가 List에 포함되어야 함.
 - 각 Task에 해당하는 셀에는 Task의 이름과 완료 여부가 표시되어야 함.
-- Task를 완료하기 위해서는 셀 우측에 있는 완료 버튼을 눌러야 함 -> Done 되었을 경우 이름이 무언가 바뀌어야 함 (strikeThrough or text color 변화)
+- Task를 완료하기 위해서는 셀 우측에 있는 완료 버튼을 눌러야 함 -> Done 되었을 경우 이름이 무언가 바뀌어야 함 (strikeThrough or text color 변화) -> 다시 누르면 원복 기능도 필요
 
 <img width="300" alt="home" src="https://user-images.githubusercontent.com/48316900/190844737-b2f29507-41e9-4e0a-8fbe-66a13e48b5d9.png">
 

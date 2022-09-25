@@ -112,11 +112,11 @@
 | 회차     | 시간 | 장소 | 자료 | 과제 | 참여 링크 | 영상 |
 | ------- |---- | ---- | ---- | ---- | ---- | ---- |
 | seminar0 | 9월 6일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 | [자료](ios/seminar0/iOS-seminar0.pdf) | [과제](ios/seminar0/assignment.md) | [줌 링크][iOS_Zoom_Link] | [영상][iOS_0_Video] |
-| seminar1 | 9월 13일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 | [자료](ios/seminar1/iOS-seminar1.pdf) | [과제](ios/seminar1/assignment.md) | [줌 링크][iOS_Zoom_Link] ||
-| seminar2 | 9월 20일 (화) 오후 7시 30분| [서울대입구 히든스페이스][iOS_0_Location] 3번방 | [자료](ios/seminar2/iOS-seminar2.pdf) || [줌 링크][iOS_Zoom_Link] ||
-| seminar3 |||||||
-| seminar4 |||||||
-| seminar5 |||||||
+| seminar1 | 9월 13일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 | [자료](ios/seminar1/iOS-seminar1.pdf) | [과제](ios/seminar1/assignment.md) | [줌 링크][iOS_Zoom_Link] | [영상][iOS_1_Video]|
+| seminar2 | 9월 20일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 | [자료](ios/seminar2/iOS-seminar2.pdf) | [과제](ios/seminar2/assignment.md)| [줌 링크][iOS_Zoom_Link] | [영상][iOS_2_Video] |
+| seminar3 | 10월 4일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 ||| [줌 링크][iOS_Zoom_Link] ||
+| seminar4 | 11월 1일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 ||| [줌 링크][iOS_Zoom_Link] ||
+| seminar5 | 11월 15일 (화) 오후 7시 30분 | [서울대입구 히든스페이스][iOS_0_Location] 3번방 ||| [줌 링크][iOS_Zoom_Link] ||
 
 <br>
 </details>
@@ -144,3 +144,5 @@
 [iOS_0_Location]: https://www.spacecloud.kr/space/6886?type=search
 [iOS_Zoom_Link]: https://snu-ac-kr.zoom.us/j/3595486765?pwd=ZmFjOXYzc21uSFNTekVOOExwOURkUT09
 [iOS_0_Video]: https://www.youtube.com/watch?v=4_R-VuuFyAY&list=PLoHXQ9xKafZPFeOz1EHlu3AcTobLVtfY-&index=1
+[iOS_1_Video]: https://youtu.be/IaOXq2fC1p0
+[iOS_2_Video]: https://youtu.be/cM9qex1yBgE
