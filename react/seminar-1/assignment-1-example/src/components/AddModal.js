@@ -25,7 +25,7 @@ export default function AddModal({
           <input
             id="price"
             value={price}
-            onChange={(e) => setPrice(formatPrice(e.target.value))}
+            onChange={(e) => setPrice(formatPrice(priceToNum(e.target.value)))}
           />
           <span className="input-suffix">원</span>
         </div>
