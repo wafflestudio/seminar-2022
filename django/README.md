@@ -35,7 +35,7 @@
     <td><a href="./seminar1/seminar-2022-django-01.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment1">링크</a></td>
     <td></td>
-    <td></td>
+    <td><a href="https://youtu.be/hASPCRP2YrA">링크</a></td>
   </tr>
   <tr>
     <td>2</td>
