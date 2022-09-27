@@ -32,7 +32,7 @@
     <td><a href="./seminar1/material.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-springboot-assignment/blob/main/seminar1/README.md">링크</a></td>
     <td></td>
-    <td></td>
+    <td><a href="https://youtu.be/6B1MYt7XYvY">링크</a></td>
   </tr>
   <tr>
     <td>2</td>
