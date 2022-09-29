@@ -167,7 +167,7 @@ class MainActivity: AppCompatActivity() {
 
 # 과제 안내
 
-- [Android Codelab 1, 2](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
+- [Android Codelab 1, 2](https://developer.android.com/courses/android-basics-kotlin/course)
 - [Kotlin tutorial](https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world)
 
 > 이번 과제의 경우 별도의 채점은 없습니다. (다음 과제 부터는 실제 프로젝트를 만들고 공유하는 과정이 필요합니다.)

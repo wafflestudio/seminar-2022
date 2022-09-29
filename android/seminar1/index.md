@@ -376,7 +376,7 @@ RecyclerView 는 왜 Adapter 를 필요로 하나요?
 - [android-basics-kotlin unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2?hl=ko)
 - [android-basics-kotlin unit 3](https://developer.android.com/courses/android-basics-kotlin/unit-3?hl=ko)
 - [git interactive tutorial](https://learngitbranching.js.org/?locale=ko)
-- Project: TicTacToe 앱 만들기 (이번 주 중으로 안내 예정)
+- [Project: TicTacToe 앱 만들기](https://github.com/wafflestudio/seminar-2022-android-assignment/blob/main/assignment-0/README.md)
   - 스켈레톤 코드 & README.md 제공
   - github를 통한 제출을 해야 하기 때문에 슬슬 깃에 대해 이해해야 합니다.
 > **안드로이드 세미나 수료를 위해서는 앞으로 제공될 Project 과제 및, android-basics-kotlin codelab 이 100% 완료되어야 합니다**

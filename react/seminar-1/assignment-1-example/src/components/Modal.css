@@ -1,0 +1,83 @@
+.modal {
+    background: #FFF;
+    border-radius: 10px;
+    padding: 20px 50px;
+    width: 33%;
+}
+
+.modal .modal-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.modal .modal-form {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    margin: 20px 0;
+}
+
+.modal .modal-form label {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.modal .modal-form input {
+    font-size: 15px;
+    padding: 5px;
+    margin: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    border: 1px solid #8A8A8A;
+    border-radius: 5px;
+}
+
+.modal .input-container {
+    position: relative;
+}
+
+.modal .input-container > input {
+    width: 100%;
+}
+
+.modal .input-container > .input-suffix {
+    position: absolute;
+    right: 5px;
+}
+
+.modal .modal-button-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.modal .modal-button-container button {
+    margin-left: 5px;
+    background: #FFF;
+    padding: 5px 10px;
+    border: 1px solid #8A8A8A;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.modal button.red-button {
+    background: #FFCFCF;
+}
+
+.modal button.green-button {
+    background: #D3FFC4;
+}
+
+.modal {
+    animation: modal-appear 300ms;
+}
+
+@keyframes modal-appear {
+    from {
+        transform: translateY(20px);
+    }
+}
+
+.closing .modal {
+    transform: translateY(20px);
+    transition: 300ms;
+}
