@@ -1,1 +1,1 @@
-rootProject.name = "seminar-2022"
+rootProject.name = "seminar-2022-session-1"
