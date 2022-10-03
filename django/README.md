@@ -39,13 +39,13 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>Model Relationships과 QuerySet</td>
+    <td>Model Relationships, Authentication, Serialization</td>
     <td>10월 4일 (화) 오후 7시 30분</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>논의중</td>
+    <td><a href="./seminar2/사전준비.md">링크</a></td>
+    <td><a href="./seminar2/seminar-2022-django-02.pdf">링크</a></td>
+    <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment2">링크</a></td>
+    <td><a href="https://snu-ac-kr.zoom.us/j/96555522999?pwd=M1F3MjFiWVl4NkxYMXZYUXlVYUp3dz09">링크</a></td>
     <td></td>
   </tr>
   <tr>
