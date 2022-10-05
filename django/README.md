@@ -46,7 +46,7 @@
     <td><a href="./seminar2/seminar-2022-django-02.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment2">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/96555522999?pwd=M1F3MjFiWVl4NkxYMXZYUXlVYUp3dz09">링크</a></td>
-    <td></td>
+    <td><a href="https://youtu.be/yDJW6iXMSOw">링크</a></td>
   </tr>
   <tr>
     <td colspan="9">중간고사를 위한 휴강 후 Big 과제</td>
