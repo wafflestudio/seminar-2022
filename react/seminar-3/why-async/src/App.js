@@ -4,13 +4,26 @@ function App() {
   const [display, setDisplay] = useState([]);
   const [coin, setCoin] = useState("H");
 
-  function heavyTask() {
-    function fib(n) {
-      if (n <= 2) return 1;
-      else return fib(n - 1) + fib(n - 2);
+  function longTask() {
+    const req = new XMLHttpRequest();
+    req.open("GET", "http://tjhswiki.com:4567/5000/https://jsonplaceholder.typicode.com/posts/1", false);
+    req.send(null);
+    if (req.status === 200) {
+      const json = JSON.parse(req.responseText);
+      setDisplay([...display, json]);
+    } else {
+      console.log(req.status, req.responseText);
     }
+  }
 
-    setDisplay((display) => [...display, fib(39 + Math.random() * 5)]);
+  function asyncTask() {
+    fetch("http://tjhswiki.com:4567/5000/https://jsonplaceholder.typicode.com/posts/1")
+      .then(res => {
+        if (res.status === 200)
+          return res.json().then(json => setDisplay([...display, json]));
+        else
+          return res.text().then(text => console.error(res.status, text));
+      });
   }
 
   function flip() {
@@ -20,13 +33,13 @@ function App() {
   return (
     <div style={{ display: "flex" }}>
       <p style={{border: "1px solid", background: "#eee", margin: "5px", flex: "1"}}>
-        <button onClick={() => heavyTask()}>do something heavy</button><br/>
-        my favorite numbers:
-        <ul>
-          {display.map(x => <li>{x}</li>)}
-        </ul>
+        <button onClick={() => longTask()}>sync request</button><br/>
+        <button onClick={() => asyncTask()}>async request</button><br/>
       </p>
-      <p style={{border: "1px solid", background: "#eee", margin: "5px", flex: "1"}}>
+      <ul style={{border: "1px solid", background: "#eee", margin: "5px", flex: "1"}}>
+        {display.map(x => <li key={x.id}>{x.title}</li>)}
+      </ul>
+      <p style={{border: "1px solid", background: "#eee", margin: "5px", flex: "1", lineBreak: "anywhere"}}>
         <button onClick={() => flip()}>flip</button><br/>
         coin: {coin}
       </p>
