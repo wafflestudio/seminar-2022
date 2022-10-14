@@ -11,18 +11,19 @@
 * 09/16: 세미나 2 자료 추가
 * 10/1: 세미나 2.5 일정 & 자료 추가
 * 10/2: 과제2 스펙 수정
+* 10/15: 세미나 3 자료 추가 & 세미나 4~5 일정 수정
 
 ## 세미나 일정
 
-| 세미나                    | 주제                                                    | 날짜 및 시간                  |
-|------------------------|-------------------------------------------------------|--------------------------|
-| [seminar 0](seminar-0) | HTML, CSS, JS                                         | 2022.08.27 15:30 ~ 16:30 |
-| [seminar 1](seminar-1) | React, Function Component, State, Deployment          | 2022.09.03 15:00 ~ 17:00 |
-| [seminar 2](seminar-2) | Component Lifecycle, Hooks, Context API, Routing      | 2022.09.17 15:00 ~ 17:00 |
-| [seminar 2.5](seminar-2.5) | CSS Layout, JS Functional Programming      | 2022.10.01 15:00 ~ 17:00 |
-| seminar 3              | Promise, HTTP                                         | 2022.10.15 15:00 ~ 17:00 |
-| seminar 4              | Advanced React, Typescript, Advanced CSS, Performance | 2022.10.29 15:00 ~ 17:00 |
-| seminar 5              | History of Web, SPA vs MPA, CSR vs SSR vs SSG         | 2022.11.12 15:00 ~ 17:00 |
+| 세미나                        | 주제                                                    | 날짜 및 시간                  |
+|----------------------------|-------------------------------------------------------|--------------------------|
+| [seminar 0](seminar-0)     | HTML, CSS, JS                                         | 2022.08.27 15:30 ~ 16:30 |
+| [seminar 1](seminar-1)     | React, Function Component, State, Deployment          | 2022.09.03 15:00 ~ 17:00 |
+| [seminar 2](seminar-2)     | Component Lifecycle, Hooks, Context API, Routing      | 2022.09.17 15:00 ~ 17:00 |
+| [seminar 2.5](seminar-2.5) | CSS Layout, JS Functional Programming                 | 2022.10.01 15:00 ~ 17:00 |
+| [seminar 3](seminar-3)     | Promise, HTTP                                         | 2022.10.15 15:00 ~ 17:00 |
+| seminar 4                  | Advanced React, Typescript, Advanced CSS, Performance | 2022.11.05 15:00 ~ 17:00 |
+| seminar 5                  | History of Web, SPA vs MPA, CSR vs SSR vs SSG         | 2022.11.19 15:00 ~ 17:00 |
 
 ## 준비사항
 
