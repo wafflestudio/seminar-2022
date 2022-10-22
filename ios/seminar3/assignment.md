@@ -30,7 +30,7 @@
 ## 체크리스트
 ### 공통
 - [ ] 탭바에 Movie 탭, Favorite 탭 존재
-- [ ] 영화 데이터는 API 요청 1회당 40개로 제한
+- [ ] 영화 데이터는 API 요청 1회당 20개로 제한
 - [ ] 영화 데이터 요청 로직 및 저장은 UIViewController에서 진행되어서는 안 됨. 이를 위한 별도의 객체 구현 필요
 - [ ] 모든 CollectionView의 DataSource는 Delegate가 아닌 RxSwift를 이용하여 제공되어야 함
 - [ ] CollectionView의 디자인 레이아웃은 UICollectionViewFlowLayout을 이용하여 설정되어야 함
