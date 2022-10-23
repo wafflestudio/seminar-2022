@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template: auto 1fr / 1fr 1fr;
+    grid-gap: 20px;
+    padding: 20px;
+    flex: 1;
+    grid-auto-flow: column;
+}
+
+.review-container {
+    grid-row: 1 / 3;
+    border: solid 1px;
+    border-radius: 10px;
+}
+
+.back-link {
+    display: flex;
+    align-items: center;
+}

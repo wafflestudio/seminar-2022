@@ -1,0 +1,18 @@
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form {
+    width: 50%;
+    max-height: 80%;
+    overflow-y: auto;
+}
+
+.green {
+    background-color: #d3ffc4;
+}
