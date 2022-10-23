@@ -1,0 +1,17 @@
+.button-container {
+    display: flex;
+    margin: 5px;
+}
+
+.button-container button,
+.button-container a{
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    border: 1px solid #000;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
