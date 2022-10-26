@@ -232,4 +232,4 @@ val Arestaurant = restaurantAdapter.fromJson("{ \"name\" : \"A\" }")
 ## 과제
 
 - [android-basics-kotlin unit 5](https://developer.android.com/courses/android-basics-kotlin/unit-5?hl=ko)
-- 곧 안내될 Project 2: TODO App
+- [Project 2: TODO App](https://github.com/wafflestudio/seminar-2022-android-assignment/tree/main/assignment-1)
