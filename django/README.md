@@ -54,8 +54,8 @@
   <tr>
     <td>3</td>
     <td>Django Rest Framework 톺아보기</td>
-    <td>11월 1일 (화) 오후 7시 30분</td>
-    <td></td>
+    <td>11월 8일 (화) 오후 7시 30분</td>
+    <td><a href="https://naver.me/xH2ledNk">서울대입구 스프링라운지</a></td>
     <td></td>
     <td></td>
     <td></td>
