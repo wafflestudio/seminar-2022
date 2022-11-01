@@ -11,7 +11,6 @@
     <td>장소</td>
     <td>자료</td>
     <td>과제</td>
-    <td>zoom</td>
     <td>영상</td>
   </tr>
   <tr>
@@ -21,7 +20,6 @@
     <td>강남</td>
     <td><a href="./seminar0/material.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-springboot-assignment/blob/main/seminar0/README.md">링크</a></td>
-    <td></td>
     <td><a href="https://youtu.be/XC3bkz6BsgE">링크</a></td>
   </tr>
   <tr>
@@ -31,7 +29,6 @@
     <td>강남</td>
     <td><a href="./seminar1/material.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-springboot-assignment/blob/main/seminar1/README.md">링크</a></td>
-    <td></td>
     <td><a href="https://youtu.be/6B1MYt7XYvY">링크</a></td>
   </tr>
   <tr>
@@ -41,8 +38,7 @@
     <td>강남</td>
     <td><a href="./seminar2/material.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-springboot-assignment/blob/main/seminar2/README.md">링크</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://youtu.be/iRtzGtxgbf0"> 링크</a></td>
   </tr>
   <tr>
     <td colspan="9">중간고사를 위한 휴강 & 애플리케이션 구현 과제</td>
@@ -52,9 +48,8 @@
     <td>테스트와 리팩토링: 지속 가능하게 개발하기</td>
     <td>11월 1일 (화) 오후 7시 30분</td>
     <td>강남</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="seminar3/material.pdf">링크</a></td>
+    <td><a href="seminar3/README.md">링크</a></td>
     <td></td>
   </tr>
   <tr>
@@ -65,14 +60,12 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>실제로 서버 운영해보기</td>
     <td>11월 29일 (화) 오후 7시 30분</td>
     <td>강남</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
