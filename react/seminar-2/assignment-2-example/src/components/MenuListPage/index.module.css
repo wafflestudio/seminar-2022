@@ -1,0 +1,41 @@
+.container {
+  flex: 1;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  grid-template-columns: 2fr auto;
+  grid-auto-flow: column;
+  grid-gap: 20px;
+  padding: 20px;
+}
+
+.container:not(.selected) {
+  grid-column-gap: 0;
+  transition: 300ms;
+}
+
+.details-wrapper {
+  grid-row: 1 / 3;
+  transition: 300ms;
+  width: 30vw;
+  border-radius: 10px;
+  border: #000 solid 1px;
+}
+
+.details-wrapper.closed {
+  width: 0;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.list-wrapper {
+  position: relative;
+}
+
+.container .open-add-modal {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  background: none;
+  border: none;
+}
+

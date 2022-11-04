@@ -1,0 +1,9 @@
+.menu-item {
+  transition: 0.2s background-color;
+  cursor: pointer;
+}
+
+.menu-item:hover,
+.menu-item.selected {
+  background: #ffe4d2;
+}

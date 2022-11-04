@@ -1,0 +1,30 @@
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form {
+    width: 50%;
+    max-width: 500px;
+    max-height: 80%;
+    overflow-y: auto;
+}
+
+.form-wrapper {
+    grid-column: 1/3;
+    display: grid;
+    grid-template: auto auto / auto 1fr;
+    width: 100%;
+    box-sizing: border-box;
+    grid-gap: 10px;
+}
+
+.login-button {
+    grid-column: 3 / 4;
+    grid-row: 1 / 3;
+    padding: 0 20px;
+}
