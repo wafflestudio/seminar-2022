@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>Django가 왜 느려질까? 퍼포먼스 최적화</td>
+    <td>배포하기: Docker, AWS, Batch</td>
     <td>11월 15일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>5</td>
-    <td>매력적인 이력서와 내가 낸 Django 코딩인터뷰</td>
+    <td>매력적인 이력서와 내가 낸 코딩 인터뷰</td>
     <td>11월 29일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
