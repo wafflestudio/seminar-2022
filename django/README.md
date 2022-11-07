@@ -53,13 +53,13 @@
   </tr>
   <tr>
     <td>3</td>
-    <td>Clean code with django</td>
+    <td>Clean software with django</td>
     <td>11월 8일 (화) 오후 7시 30분</td>
     <td><a href="https://naver.me/xH2ledNk">서울대입구 스프링라운지</a></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td><a href="./seminar2/seminar-2022-django-02.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment3">링크</a></td>
-    <td></td>
+    <td><a href="https://snu-ac-kr.zoom.us/j/92435882092?pwd=WEJUOXpybVJjdDN2MEFETUh4ZDdxUT09">링크</
     <td></td>
   </tr>
   <tr>
