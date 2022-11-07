@@ -21,7 +21,6 @@
 ### 공통
 - [ ] 탭바에 Movie 탭, Favorite 탭 존재
 - [ ] 영화 데이터는 API 요청 1회당 20개로 제한
-- [ ] 영화 데이터 요청 로직 및 저장은 UIViewController에서 진행되어서는 안 됨. 이를 위한 별도의 객체 구현 필요 (UserDefault 포함)
 - [ ] 모든 CollectionView의 DataSource는 Delegate가 아닌 RxSwift를 이용하여 제공되어야 함
 - [ ] CollectionView의 디자인 레이아웃은 UICollectionViewFlowLayout을 이용하여 설정되어야 함
 
@@ -49,8 +48,19 @@
 - [ ] 앱 종료 후 콜드 스타트 시에도 관심목록 그대로 남아있어야 함
 
 
-### 리팩토링
-- 추후 추가 예정 기본적으로 과제 설명에 나온 선에서 크게 벗어나지 않을 예정
+## 리팩토링
+### 각 로직의 위치
+- [ ] ViewController: VM의 데이터를 View 객체들에 전달 (CollectionView bind, setImage, setTitle, configure 등의 로직) / AutoLayout 잡기 / 그 외 UI 세팅 코드
+- [ ] ViewModel : Usecase로부터 데이터를 받아와 필요한 데이터를 VC에 observable이던 기본 var or let이던 전달하는 역할 / VC에서 VM에 데이터를 요청하면 Usecase에 요청을 넣어 데이터를 받아오도록
+- [ ] Usecase : VM에서 데이터를 요청할 수 있는 메소드 -> Repository를 이용하여 네트워크 데이터 요청 / UserDefaults에서 데이터를 가져오도록 구현 등 / VM에 데이터를 제공할 수 있는 variable 정의 필요
+- [ ] Repository : 네트워크 데이터 요청 로직 (Alamofire, URLSession 등)
+
+
+### 핵심
+- [ ] 관심 종목 로컬 저장 (UserDefaults 컨트롤)은 FavoriteMovieUsecase에 들어있어야 한다.
+- [ ] 최신, 인기 영화 데이터 모두 MovieUsecase가 어떤 방식 (Rx는 사용하던 안 하던 편한대로 하셔도 됩니다. Subject나 Relay쓰는게 편하실 것)으로든 저장하고 있어야 한다. 
+- [ ] ViewModel은 직접적으로 영화 리스트 데이터를 저장하고 있어서는 안 된다. (Detail View의 ViewModel이 하나의 영화 데이터를 들고 있는 것은 예외) Usecase의 데이터를 제공할 수 있도록 한다.
+- [ ] ViewController에 UI 세팅 로직 이외에 어떠한 로직도 포함되어서는 안된다. (데이터 요청, 저장, 조회 등등 : 모든 데이터는 VM으로부터 가져오거나 구독하여 사용해야 한다)
 
 ## 제출 방식
 1. `seminar-4-assignment` 브랜치에서 과제를 진행해 주세요. 
