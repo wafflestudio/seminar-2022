@@ -57,14 +57,14 @@
     <td>11월 8일 (화) 오후 7시 30분</td>
     <td><a href="https://naver.me/xH2ledNk">서울대입구 스프링라운지</a></td>
     <td>X</td>
-    <td><a href="./seminar2/seminar-2022-django-02.pdf">링크</a></td>
+    <td><a href="./seminar3/seminar-2022-django-03.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment3">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/92435882092?pwd=WEJUOXpybVJjdDN2MEFETUh4ZDdxUT09">링크</a></td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
-    <td>배포하기: Docker, AWS, Batch</td>
+    <td>프로덕션 배포하기: Docker, AWS, Batch</td>
     <td>11월 15일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>5</td>
-    <td>매력적인 이력서와 내가 낸 코딩 인터뷰</td>
+    <td>Django는 왜 망할 수도 있을까? / 개발 간지나게 하는 법 (꿀팁 공유)</td>
     <td>11월 29일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
