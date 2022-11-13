@@ -67,10 +67,10 @@
     <td>프로덕션 배포하기: Docker, AWS, Batch</td>
     <td>11월 15일 (화) 오후 7시 30분</td>
     <td></td>
+    <td><a href="./seminar4/사전준비.md">링크</a></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment4">링크</a></td>
+    <td><a href="https://snu-ac-kr.zoom.us/j/98605541008?pwd=bktkV0wwWWFQcXNuS3d0ajF1NXZYZz09">링크</a></td>
     <td></td>
   </tr>
   <tr>
