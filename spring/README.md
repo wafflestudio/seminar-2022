@@ -54,16 +54,16 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>퍼포먼스 최적화를 위한 다양한 고민</td>
+    <td>실제로 서버를 운영하려면?</td>
     <td>11월 15일 (화) 오후 7시 30분</td>
-    <td>강남</td>
-    <td></td>
-    <td></td>
+    <td>서울대입구</td>
+    <td><a href="seminar4/material.pdf">링크</a></td>
+    <td><a href="seminar4/README.md">링크</a></td>
     <td></td>
   </tr>
   <tr>
     <td>5</td>
-    <td>실제로 서버 운영해보기</td>
+    <td>퍼포먼스 최적화를 위한 다양한 고민</td>
     <td>11월 29일 (화) 오후 7시 30분</td>
     <td>강남</td>
     <td></td>
