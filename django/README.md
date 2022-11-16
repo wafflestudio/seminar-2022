@@ -60,7 +60,7 @@
     <td><a href="./seminar3/seminar-2022-django-03.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment3">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/92435882092?pwd=WEJUOXpybVJjdDN2MEFETUh4ZDdxUT09">링크</a></td>
-    <td></td>
+    <td><a href="https://youtu.be/FvUXiaD7hIk">링크</a></td>
   </tr>
   <tr>
     <td>4</td>
@@ -71,7 +71,7 @@
     <td><a href="./seminar4/seminar-2022-django-04.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment4">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/98605541008?pwd=bktkV0wwWWFQcXNuS3d0ajF1NXZYZz09">링크</a></td>
-    <td></td>
+    <td><a href="https://youtu.be/yswQqdQAi7M">링크</a></td>
   </tr>
   <tr>
     <td>5</td>
