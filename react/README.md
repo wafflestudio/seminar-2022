@@ -13,6 +13,7 @@
 * 10/2: 과제2 스펙 수정
 * 10/15: 세미나 3 자료 추가 & 세미나 4~5 일정 수정
 * 11/5: 세미나 4 자료 추가
+* 11/19: 세미나 5 자료 추가
 
 ## 세미나 일정
 
@@ -24,7 +25,7 @@
 | [seminar 2.5](seminar-2.5) | CSS Layout, JS Functional Programming                 | 2022.10.01 15:00 ~ 17:00 |
 | [seminar 3](seminar-3)     | Promise, HTTP                                         | 2022.10.15 15:00 ~ 17:00 |
 | [seminar 4](seminar-4)     | Advanced React, Typescript, Advanced CSS, Performance | 2022.11.05 15:00 ~ 17:00 |
-| seminar 5                  | History of Web, SPA vs MPA, CSR vs SSR vs SSG         | 2022.11.19 15:00 ~ 17:00 |
+| [seminar 5](seminar-5)     | History of Web, SPA vs MPA, CSR vs SSR vs SSG         | 2022.11.19 15:00 ~ 17:00 |
 
 ## 준비사항
 
