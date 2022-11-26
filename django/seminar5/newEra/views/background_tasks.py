@@ -1,6 +1,6 @@
 from fastapi import BackgroundTasks
 
-from app import app
+from main import app
 
 
 def write_notification(email: str, message=""):

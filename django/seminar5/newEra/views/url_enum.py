@@ -1,6 +1,6 @@
 from enum import Enum
 
-from app import app
+from main import app
 
 
 class ModelName(str, Enum):

@@ -1,6 +1,5 @@
-import views
-from app import app
+from fastapi import FastAPI
 
-__all__ = [
-    'app'
-]
+app = FastAPI()
+
+from views import background_tasks, hello, pydantic_validation, url_enum
