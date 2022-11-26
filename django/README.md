@@ -77,15 +77,15 @@
     <td>5</td>
     <td>ORM과 N+1 쿼리 / Django는 왜 망할 수도 있을까?</td>
     <td>11월 29일 (화) 오후 7시 30분</td>
+    <td>서울대학교 내부 예정</td>
+    <td><a href="./seminar5/사전준비.md">링크</a></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment5">링크</a></td>
+    <td><a href="https://snu-ac-kr.zoom.us/j/92398422530?pwd=UGVCOGhLWHdFR3NhOVdEMkc2bXcxQT09">링크</a></td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="9">기말고사를 위한 휴강 후 Programmers 선발 진행</td>
+    <td colspan="9">Programmers 선발 진행</td>
   </tr>
 </table>
 
