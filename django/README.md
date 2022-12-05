@@ -82,7 +82,7 @@
     <td><a href="./seminar5/seminar-2022-django-05.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment5">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/92398422530?pwd=UGVCOGhLWHdFR3NhOVdEMkc2bXcxQT09">링크</a></td>
-    <td></td>
+    <td><a href="https://youtu.be/txv05x3PsbQ">링크</a></td>
   </tr>
   <tr>
     <td colspan="9">Programmers 선발 진행</td>
