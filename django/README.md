@@ -24,7 +24,7 @@
     <td><a href="./seminar0/seminar-2022-django-00.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment0">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/98971848946?pwd=V0J4ZXl2N0thaFMxSWU1K0puUlE2dz09">링크</a></td>
-    <td><a href="https://www.youtube.com/watch?v=T1MfnMLwgAo&list=PLoHXQ9xKafZMxix8XP22W5zlR6JcI-a1r">링크</a></td>
+    <td><a href="https://www.youtube.com/watch?v=Zr9tFaJTJ70&list=PLzNDswlnDlcOa45CfRb62AOGipkThK5RK">링크</a></td>
   </tr>
   <tr>
     <td>1</td>
@@ -35,7 +35,7 @@
     <td><a href="./seminar1/seminar-2022-django-01.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment1">링크</a></td>
     <td></td>
-    <td><a href="https://youtu.be/hASPCRP2YrA">링크</a></td>
+    <td><a href="https://www.youtube.com/watch?v=bD54-Er0ULI&list=PLzNDswlnDlcOa45CfRb62AOGipkThK5RK&index=2">링크</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -46,7 +46,7 @@
     <td><a href="./seminar2/seminar-2022-django-02.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment2">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/96555522999?pwd=M1F3MjFiWVl4NkxYMXZYUXlVYUp3dz09">링크</a></td>
-    <td><a href="https://youtu.be/yDJW6iXMSOw">링크</a></td>
+    <td><a href="https://www.youtube.com/watch?v=lQjbkPdaGp4&list=PLzNDswlnDlcOa45CfRb62AOGipkThK5RK&index=3">링크</a></td>
   </tr>
   <tr>
     <td colspan="9">중간고사를 위한 휴강 후 Big 과제</td>
@@ -60,7 +60,7 @@
     <td><a href="./seminar3/seminar-2022-django-03.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment3">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/92435882092?pwd=WEJUOXpybVJjdDN2MEFETUh4ZDdxUT09">링크</a></td>
-    <td><a href="https://youtu.be/FvUXiaD7hIk">링크</a></td>
+    <td><a href="https://www.youtube.com/watch?v=b8Gl7ECE8ig&list=PLzNDswlnDlcOa45CfRb62AOGipkThK5RK&index=4">링크</a></td>
   </tr>
   <tr>
     <td>4</td>
@@ -71,7 +71,7 @@
     <td><a href="./seminar4/seminar-2022-django-04.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment4">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/98605541008?pwd=bktkV0wwWWFQcXNuS3d0ajF1NXZYZz09">링크</a></td>
-    <td><a href="https://youtu.be/yswQqdQAi7M">링크</a></td>
+    <td><a href="https://www.youtube.com/watch?v=OHLgilhQ92Y&list=PLzNDswlnDlcOa45CfRb62AOGipkThK5RK&index=5">링크</a></td>
   </tr>
   <tr>
     <td>5</td>
@@ -82,7 +82,7 @@
     <td><a href="./seminar5/seminar-2022-django-05.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment5">링크</a></td>
     <td><a href="https://snu-ac-kr.zoom.us/j/92398422530?pwd=UGVCOGhLWHdFR3NhOVdEMkc2bXcxQT09">링크</a></td>
-    <td><a href="https://youtu.be/txv05x3PsbQ">링크</a></td>
+    <td><a href="https://www.youtube.com/watch?v=DKdjnO-PBa0&list=PLzNDswlnDlcOa45CfRb62AOGipkThK5RK&index=7">링크</a></td>
   </tr>
   <tr>
     <td colspan="9">Programmers 선발 진행</td>
